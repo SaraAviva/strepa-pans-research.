@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="410" viewBox="0 0 1400 410" role="img" aria-labelledby="title desc">
+  <title id="title">Computational workstreams</title>
+  <desc id="desc">Protein manifests feed InterProScan annotation and coverage analysis. Antibody-response analysis feeds protein and region mapping. Both workstreams inform candidate review, followed by annotation and verification.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#4d8791"/></marker>
+  </defs>
+  <rect width="1400" height="410" rx="20" fill="#f4f8f9"/>
+  <text x="32" y="38" fill="#52717d" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">COMPUTATIONAL WORKSTREAMS</text>
+  <g fill="none" stroke="#4d8791" stroke-width="2.5" marker-end="url(#arrow)">
+    <path d="M252 120 H282"/>
+    <path d="M506 120 H536"/>
+    <path d="M506 300 H536"/>
+    <path d="M756 120 H782 V210 H812"/>
+    <path d="M756 300 H782 V210 H812"/>
+    <path d="M1036 210 H1090"/>
+  </g>
+  <g stroke="#c6d9df" stroke-width="1.5" fill="#ffffff">
+    <rect x="32" y="80" width="220" height="80" rx="12"/>
+    <rect x="286" y="80" width="220" height="80" rx="12"/>
+    <rect x="540" y="80" width="216" height="80" rx="12"/>
+    <rect x="286" y="260" width="220" height="80" rx="12"/>
+    <rect x="540" y="260" width="216" height="80" rx="12"/>
+  </g>
+  <rect x="816" y="170" width="220" height="80" rx="12" fill="#dff2ec" stroke="#73b3a2" stroke-width="1.5"/>
+  <rect x="1094" y="170" width="274" height="80" rx="12" fill="#153947"/>
+  <g fill="#193e4c" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">
+    <text x="142" y="127">Protein manifests</text>
+    <text x="396" y="114"><tspan x="396">InterProScan</tspan><tspan x="396" dy="25">annotation</tspan></text>
+    <text x="648" y="114"><tspan x="648">Coverage analysis</tspan><tspan x="648" dy="25">and plots</tspan></text>
+    <text x="396" y="294"><tspan x="396">Antibody-response</tspan><tspan x="396" dy="25">analysis</tspan></text>
+    <text x="648" y="294"><tspan x="648">Protein and</tspan><tspan x="648" dy="25">region mapping</tspan></text>
+    <text x="926" y="217" font-weight="700">Candidate review</text>
+    <text x="1231" y="204" fill="#ffffff"><tspan x="1231">Follow-up annotation</tspan><tspan x="1231" dy="25">and verification</tspan></text>
+  </g>
+  <text x="32" y="384" fill="#52717d" font-family="Arial, sans-serif" font-size="14">Workstream overview. Archive coverage and remaining source gaps are documented separately.</text>
+</svg>

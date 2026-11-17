@@ -52,15 +52,7 @@ python3 tools/run_existing_verifier_tests.py
 
 ## Workflow overview
 
-```mermaid
-flowchart LR
-    A[Protein manifests] --> B[InterProScan annotation]
-    B --> C[Coverage analysis and plots]
-    D[Antibody-response analysis] --> E[Protein and region mapping]
-    E --> F[Candidate review]
-    C --> F
-    F --> G[Follow-up annotation and verification]
-```
+![Computational workstreams: annotation coverage and antibody-response mapping inform candidate review and follow-up verification.](assets/workflow.svg)
 
 This is an overview of the workstreams, not a fully reproduced end-to-end pipeline. Historical cluster scripts retain their original directory assumptions; do not run submission scripts unchanged on a new system.
 
