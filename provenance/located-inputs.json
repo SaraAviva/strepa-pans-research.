@@ -1,0 +1,16 @@
+[
+  {
+    "path": "data/annotation_coverage/hypothetical_proteins_manifest_with_counts.csv",
+    "bytes": 175389,
+    "sha256": "24ab5920e42e1bfe6569c16bfba6d8afbbbbb96a88b388c20a4d8da12eb20858",
+    "source": "Preserved project analysis input; local and Hummingbird copies located",
+    "scope": "Bacterial protein/genome annotations, not participant records"
+  },
+  {
+    "path": "data/annotation_coverage/hypothetical_proteins_combined.faa.tsv",
+    "bytes": 425513,
+    "sha256": "66f318c93dbabdeb8eb89c671ed48c04ca73fe94527141ccb68c4eaaa5a68259",
+    "source": "Preserved project analysis input; local and Hummingbird copies located",
+    "scope": "Bacterial protein/genome annotations, not participant records"
+  }
+]

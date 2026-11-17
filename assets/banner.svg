@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">StrepA Research Code</title><desc id="desc">Computational analysis archive for the Streptococcus pyogenes and PANS research project. Computational source archive.</desc>
+<rect width="1280" height="320" rx="20" fill="#112c38"/>
+<path d="M930 0v320M1030 0v320M1130 0v320M1230 0v320M900 60h380M900 160h380M900 260h380" stroke="#254653" stroke-width="1"/>
+<g fill="none" stroke="#66d3bd" stroke-width="3"><path d="M978 105l63 64 76-50 73 75"/><circle cx="978" cy="105" r="18"/><circle cx="1041" cy="169" r="24"/><circle cx="1117" cy="119" r="18"/><circle cx="1190" cy="194" r="24"/></g>
+<text x="60" y="68" fill="#75dcc6" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">COMPUTATIONAL RESEARCH ARCHIVE</text>
+<text x="58" y="139" fill="#f6faf9" font-family="Arial,sans-serif" font-size="53" font-weight="700">StrepA Research Code</text>
+<text x="60" y="190" fill="#c0d0d5" font-family="Arial,sans-serif" font-size="23">Streptococcus pyogenes · PANS-associated antibody research</text>
+<rect x="60" y="235" width="207" height="34" rx="17" fill="#234a53"/><text x="79" y="257" fill="#b0efdf" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">RESEARCH CODE · MIT</text>
+<text x="291" y="257" fill="#adc3cb" font-family="Arial,sans-serif" font-size="15">Source provenance · Reproducibility · Clear documentation</text></svg>

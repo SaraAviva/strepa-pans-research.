@@ -1,0 +1,2016 @@
+gene,annotation,genome,source,seq_length,note,n_isolates
+rpoB,hypothetical protein;DNA-directed RNA polymerase subunit beta,GCF_000013485.1,GCF_000013485.1;422_refound_9317,1191,,1892
+group_3928,PepSY domain-containing protein;hypothetical protein,GCF_000018125.1,GCF_000018125.1;425_0_1159,150,,1892
+group_3916,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1229,46,,1892
+group_3184,hypothetical protein;DUF4651 domain-containing protein,GCA_011290585.1,GCA_011290585.1;0_0_1573,97,,1892
+group_2959,hypothetical protein;PTS ascorbate transporter subunit IIC,GCF_900983095.1,GCF_900983095.1;1617_refound_39293,456,,1892
+group_2151,hypothetical protein,GCF_054575525.1,GCF_054575525.1;1049_0_0,179,,1892
+group_1958,chemotaxis protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_754,118,,1892
+group_1955,PC4/YdbC family ssDNA-binding protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1230,70,,1892
+group_1869,ECF transporter S component;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_331,185,,1892
+group_1766,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1549,106,,1892
+group_1618,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_13_49,162,,1892
+group_1436,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_refound_9533,79,,1892
+group_1184,hypothetical protein,GCF_000630825.1,GCF_000630825.1;497_refound_11472,250,,1892
+group_493,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_840,102,,1892
+group_162,PASTA domain-containing protein;hypothetical protein,GCF_900985175.1,GCF_900985175.1;1719_refound_42361,162,,1892
+group_4083,hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_2_96,79,,1891
+macP,cell wall synthase accessory phosphoprotein MacP;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1343,83,,1891
+scpAB,C5a peptidase ScpA/B;S8 family serine peptidase;hypothetical protein;peptidase C5,GCF_900983305.1,GCF_900983305.1;1630_1_229,1219,,1891
+group_3585,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_refound_16481,47,,1891
+group_3568,hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_4_62,242,,1891
+group_3527,hypothetical protein,GCF_900982835.1,GCF_900982835.1;1597_1_282,293,,1891
+group_3292,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_425,52,,1891
+group_2973,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_refound_2507,60,,1891
+group_2113,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_163,100,,1891
+group_2031,hypothetical protein,GCA_054331355.1,GCA_054331355.1;241_4_79,202,,1891
+group_1961,hypothetical protein;ABC transporter,GCF_000018125.1,GCF_000018125.1;425_0_1496,134,,1891
+group_302,hypothetical protein,GCF_047370775.1,GCF_047370775.1;981_refound_24748,251,,1891
+group_90,hypothetical protein,GCA_042876175.1,GCA_042876175.1;59_refound_1750,102,,1891
+group_3134,SLC13 family permease;hypothetical protein,GCF_900474885.1,GCF_900474885.1;1539_refound_37118,420,,1890
+group_3074,glutathione S-transferase family protein;glutathione binding-like protein;hypothetical protein;glutathione S-transferase,GCF_900983225.1,GCF_900983225.1;1623_0_307,198,,1890
+group_3000,DUF6556 family protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_84,146,,1890
+group_2269,ABC transporter permease;hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_922,263,,1890
+group_2100,hypothetical protein,GCF_000018125.1,GCF_000018125.1;425_refound_9462,433,,1890
+group_2021,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_refound_18343,101,,1890
+group_1992,hypothetical protein,GCF_000018125.1,GCF_000018125.1;425_0_616,66,,1890
+group_1226,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1039,83,,1890
+group_572,hypothetical protein,GCF_900983695.1,GCF_900983695.1;1650_7_56,237,,1890
+group_459,hypothetical protein;tetratricopeptide repeat protein,GCA_011290585.1,GCA_011290585.1;0_0_186,415,,1890
+group_3863,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_refound_33,70,,1889
+group_3245,helix-turn-helix domain-containing protein;hypothetical protein,GCF_054576785.1,GCF_054576785.1;1106_refound_27320,469,,1889
+group_2914,hypothetical protein,GCF_041430885.1,GCF_041430885.1;867_refound_21614,63,,1889
+group_365,hypothetical protein;ABC transporter permease,GCF_000011285.1,GCF_000011285.1;418_0_399,547,,1889
+group_307,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1146,133,,1889
+group_3988,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1341,113,,1888
+group_2650,hypothetical protein;endonuclease/exonuclease/phosphatase family protein;LPXTG cell wall anchor domain-containing protein,GCA_041877935.1,GCA_041877935.1;1_71_41,910,,1888
+group_2545,hypothetical protein,GCA_054325835.1,GCA_054325835.1;160_9_41,70,,1888
+group_869,oxaloacetate decarboxylase subunit alpha;hypothetical protein;pyruvate carboxylase subunit B,GCA_042863575.1,GCA_042863575.1;7_10_99,465,,1887
+group_832,DUF4097 family beta strand repeat-containing protein;hypothetical protein;DUF4097 domain-containing protein,GCF_900474865.1,GCF_900474865.1;1538_refound_37102,346,,1887
+group_4019,hypothetical protein,GCF_900991025.1,GCF_900991025.1;1755_refound_43332,211,,1886
+group_3728,SPJ_0845 family protein;hypothetical protein,GCF_000743015.1,GCF_000743015.1;561_0_1395,54,,1886
+group_414,ABC-three component system middle component 7;hypothetical protein,GCF_900982925.1,GCF_900982925.1;1604_2_56,80,,1886
+group_3556,penicillin-binding protein;hypothetical protein,GCF_900995425.1,GCF_900995425.1;1865_refound_46470,72,,1885
+group_2791,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_refound_2506,67,,1885
+group_73,CHY zinc finger protein;hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_163,115,,1885
+group_3970,hypothetical protein,GCF_900995345.1,GCF_900995345.1;1860_refound_46286,71,,1884
+group_3846,AAA family ATPase;hypothetical protein,GCF_055179635.1,GCF_055179635.1;1391_refound_33544,676,,1884
+group_1996,hypothetical protein;DUF2142 domain-containing protein,GCF_001547835.1,GCF_001547835.1;582_refound_13936,458,,1884
+group_846,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_11_14,40,,1882
+group_129,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_334,112,,1881
+group_3182,ATP-binding protein;hypothetical protein;sensor histidine kinase,GCF_005164705.1,GCF_005164705.1;694_refound_16936,479,,1880
+group_4078,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_1_167,93,,1879
+group_3244,hypothetical protein;glycosyltransferase family 9 protein,GCA_011290585.1,GCA_011290585.1;0_0_1318,84,,1877
+group_2697,hypothetical protein,GCA_054325835.1,GCA_054325835.1;160_refound_4048,70,,1877
+group_1074,SpoV family signaling peptide;hypothetical protein,GCF_900993575.1,GCF_900993575.1;1773_5_62,91,,1876
+group_2022,transposase;hypothetical protein,GCF_900985175.1,GCF_900985175.1;1719_4_1,95,,1875
+group_605,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1310,80,,1875
+group_3122,hypothetical protein;surface-anchored 5'-nucleotidase;metallophosphoesterase;bifunctional metallophosphatase/5'-nucleotidase,GCA_042877765.1,GCA_042877765.1;116_9_24,676,,1874
+group_3322,hypothetical protein;nucleotide sugar dehydrogenase;UDP binding domain-containing protein,GCF_004154345.1,GCF_004154345.1;665_refound_16205,354,,1869
+group_3193,hypothetical protein;type II toxin-antitoxin system RelB/ParD family antitoxin,GCF_005160785.1,GCF_005160785.1;672_refound_16340,96,,1869
+group_3192,exotoxin beta-grasp domain-containing protein;hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_265,238,,1869
+group_466,hypothetical protein,GCA_042876645.1,GCA_042876645.1;72_11_17,183,,1866
+group_2792,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_416,50,,1864
+group_3189,histidine kinase;hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_5,145,,1853
+group_3165,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_193,108,,1847
+group_1071,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1092,76,,1843
+lanM,ATP-binding cassette domain-containing protein;DUF4135 domain-containing protein;type 2 lanthipeptide synthetase LanM family protein;ABC transporter ATP-binding protein;type 2 lanthipeptide synthetase LanM;ABC transporter transmembrane domain-containing protein;cysteine peptidase family C39 domain-containing protein;peptidase domain-containing ABC transporter;hypothetical protein;6TM ABC transporter family protein;salivaricin A modification protein,GCA_042864935.1,GCA_042864935.1;50_7_10,944,,1827
+group_3880,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_72_14,64,,1823
+group_3939,hypothetical protein;serine hydrolase,GCA_011290585.1,GCA_011290585.1;0_0_542,82,,1815
+spoV,SpoV family signaling peptide;virulence-signaling peptide SpoV;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1531,55,,1815
+group_253,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1558,221,,1792
+group_413,ABC-three component system protein;hypothetical protein,GCF_005162405.1,GCF_005162405.1;681_refound_16619,279,,1790
+group_894,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_3_42,115,,1789
+group_2065,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_refound_52,201,,1768
+group_2346,transcriptional regulator;hypothetical protein;helix-turn-helix domain-containing protein;helix-turn-helix transcriptional regulator,GCF_900984005.1,GCF_900984005.1;1661_1_201,115,,1756
+slc2,LPXTG cell wall anchor domain-containing protein;LPXTG-anchored collagen-like adhesin Scl2/SclB;collagen-like protein;collagen-like domain-containing protein;peptidase;hypothetical protein,GCF_900984285.1,GCF_900984285.1;1677_8_2,892,,1745
+group_537,hypothetical protein;Tpl protein;PSP1 C-terminal domain-containing protein;tpl protein,GCF_900988295.1,GCF_900988295.1;1739_0_244,104,,1735
+group_4096,nucleoside-diphosphate kinase;hypothetical protein,GCF_056157265.1,GCF_056157265.1;1456_0_321,83,,1733
+group_3934,hypothetical protein;dihydroxyacetone kinase,GCA_011290585.1,GCA_011290585.1;0_0_1284,49,,1725
+group_3238,hypothetical protein;NUDIX hydrolase,GCA_041877935.1,GCA_041877935.1;1_21_83,61,,1725
+group_203,hypothetical protein;bacteriocin,GCF_002844355.1,GCF_002844355.1;625_0_355,72,,1718
+group_1095,hypothetical protein;portal protein;HisS family protein;ATP phosphoribosyltransferase regulatory subunit;class-II aminoacyl-tRNA synthetase family protein,GCF_005160445.1,GCF_005160445.1;670_0_422,405,,1710
+group_2579,hypothetical protein;serine hydrolase;peptidase S11,GCA_011290585.1,GCA_011290585.1;0_0_541,196,,1691
+scl1~~~slc1,LPXTG-anchored collagen-like adhesin Scl1/SclA;LPXTG cell wall anchor domain-containing protein;hypothetical protein;collagen-like protein;adhesin Scl1,GCF_054574905.1,GCF_054574905.1;1018_11_59,503,,1674
+group_208,IS3 family transposase;hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_53_31,52,,1658
+grab,G-related alpha2-macroglobulin-binding protein GRAB;LPXTG cell wall anchor domain-containing protein;hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_2_18,301,,1651
+group_555,hypothetical protein,GCA_042867545.1,GCA_042867545.1;51_1_70,89,,1609
+group_1933,hypothetical protein,GCF_900984935.1,GCF_900984935.1;1708_refound_42049,91,,1591
+rofA,transcriptional regulator RofA;hypothetical protein,GCF_000631465.1,GCF_000631465.1;529_refound_12670,484,,1567
+group_3218,helix-turn-helix domain-containing protein;hypothetical protein;M protein trans-acting positive regulator PRD domain-containing protein;transcriptional regulator,GCA_042863475.1,GCA_042863475.1;5_18_11,513,,1544
+group_3353,hypothetical protein,GCF_054575045.1,GCF_054575045.1;1025_refound_25729,344,,1534
+group_3320,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_236,47,,1478
+group_166,hypothetical protein;DUF1542 domain-containing protein;LPXTG cell wall anchor domain-containing protein,GCF_900995805.1,GCF_900995805.1;1879_0_313,2415,,1463
+group_4097,hypothetical protein,GCF_900984785.1,GCF_900984785.1;1703_1_239,75,,1440
+group_2565,hypothetical protein;2-hydroxycarboxylate transporter family protein;malate permease,GCF_033008475.1,GCF_033008475.1;821_refound_20428,431,,1419
+group_3909,ATP-binding cassette domain-containing protein;ABC transporter ATP-binding protein;hypothetical protein;6TM ABC transporter family protein;thiopeptide-type bacteriocin biosynthesis protein,GCA_042867545.1,GCA_042867545.1;51_0_499,833,,1382
+group_1013,hypothetical protein;helix-turn-helix domain-containing protein;XRE family transcriptional regulator;transcriptional regulator,GCA_042864325.1,GCA_042864325.1;27_9_130,471,,1362
+group_271,SpoV family signaling peptide;hypothetical protein,GCF_055361715.1,GCF_055361715.1;1398_0_136,118,,1360
+group_212,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_refound_1962,133,,1351
+group_1900,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_312,107,,1270
+group_1623,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_1527,100,,1262
+group_3648,hypothetical protein;YlbF family regulator,GCA_042864675.1,GCA_042864675.1;39_refound_1222,72,,1249
+group_3570,sigma-70 family RNA polymerase sigma factor;sigma-70 RNA polymerase sigma factor region 4 domain-containing protein;hypothetical protein,GCF_054575225.1,GCF_054575225.1;1034_0_0,198,,1240
+emm,M protein;YSIRK-type signal peptide-containing protein;LPXTG cell wall anchor domain-containing protein;hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_3_19,581,,1219
+group_3356,hypothetical protein;GntP family permease,GCF_001014285.1,GCF_001014285.1;567_0_1230,457,,1204
+group_3370,hypothetical protein,GCF_002844355.1,GCF_002844355.1;625_refound_15175,97,,1201
+group_3604,IS3 family transposase;hypothetical protein,GCA_042878465.1,GCA_042878465.1;135_6_72,63,,1200
+group_3955,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_899,106,,1190
+group_3368,sigma-70 family RNA polymerase sigma factor;hypothetical protein,GCF_000250905.1,GCF_000250905.1;429_refound_9669,188,,1141
+group_183,hypothetical protein,GCF_001014285.1,GCF_001014285.1;567_refound_13521,92,,1118
+group_2153,hypothetical protein;apolipoprotein A1/A4/E family protein,GCF_035918475.1,GCF_035918475.1;830_0_877,151,,1101
+group_2852,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_115_3,79,,1093
+group_772,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_491,62,,1082
+group_3091,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_6,68,,1076
+group_1060,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_27,53,,1072
+group_1528,hypothetical protein,GCF_041900915.1,GCF_041900915.1;910_refound_23097,101,,1038
+group_152,competence regulator inhibitor paratox;Paratox;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_398,64,,1024
+group_3837,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_21_19,143,,1014
+group_513,hypothetical protein,GCF_900636485.1,GCF_900636485.1;1586_0_425,110,,1005
+group_3720,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_137,183,,979
+group_1584,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_130,56,,978
+group_1738,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_128,128,,974
+group_3343,lantibiotic dehydratase;thiopeptide-type bacteriocin biosynthesis protein;lanthionine synthetase LanC family protein;lanthionine synthetase C family protein;hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_385,1254,,970
+group_741,hypothetical protein,GCF_900475105.1,GCF_900475105.1;1553_0_406,115,,970
+group_1531,hypothetical protein,GCA_054330815.1,GCA_054330815.1;214_refound_4972,63,,966
+group_1875,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1353,210,,956
+group_2117,carbohydrate kinase family protein;hypothetical protein;tagatose-6-phosphate kinase,GCA_042863455.1,GCA_042863455.1;4_10_71,135,,941
+group_913,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_7,46,,934
+group_2517,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_0_56,61,,929
+group_909,FanG protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_946,79,,927
+group_4080,transcriptional regulator;hypothetical protein;helix-turn-helix domain-containing protein,GCA_042863455.1,GCA_042863455.1;4_9_175,89,,924
+group_2799,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_10_83,66,,924
+group_760,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_0_1043,62,,914
+group_911,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_0_55,88,,891
+group_1138,RuvC family protein;hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_19_3,170,,885
+group_3178,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_99,77,,884
+group_3614,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_91,206,,880
+group_1142,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_102,119,,880
+group_616,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_104,92,,880
+group_3139,hypothetical protein,GCF_054581445.1,GCF_054581445.1;1331_refound_32245,457,,874
+group_3717,hypothetical protein,GCA_056468695.1,GCA_056468695.1;256_refound_5764,104,,873
+group_1496,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_385,68,,873
+group_1278,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_10,52,,873
+group_714,competence regulator inhibitor paratox;hypothetical protein;Paratox,GCF_000009385.1,GCF_000009385.1;417_0_649,60,,873
+group_1472,holin;hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_89,61,,872
+group_141,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_462,106,,871
+group_3151,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_133,137,,867
+group_2447,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_9_69,51,,867
+group_2360,hypothetical protein,GCF_017132795.1,GCF_017132795.1;742_0_1350,113,,866
+group_3263,DNA-methyltransferase;hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_116,283,,864
+group_2782,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_115,63,,863
+group_1211,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_117,88,,862
+group_820,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_124,132,,860
+group_3163,ATP-grasp domain-containing protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1253,415,,855
+group_3351,LD-carboxypeptidase;hypothetical protein;S66 peptidase family protein;S66 family peptidase,GCA_042863555.1,GCA_042863555.1;6_9_295,341,,851
+group_1693,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_16,88,,849
+group_3972,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_95_1,15,,845
+group_1424,phage tail spike protein;carbohydrate binding domain-containing protein;hypothetical protein;peptidase;phage tail protein,GCA_042864025.1,GCA_042864025.1;16_12_0,715,,833
+group_1047,tape measure protein;hypothetical protein;phage tail protein;autotransporter outer membrane beta-barrel domain-containing protein,GCA_042863575.1,GCA_042863575.1;7_0_43,1211,,830
+group_773,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_11,61,,829
+group_33,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_76,77,,824
+group_2500,asparagine synthetase A;amino acid--tRNA ligase-related protein;hypothetical protein,GCF_000422045.1,GCF_000422045.1;436_0_429,333,,820
+group_836,hypothetical protein,GCA_056471865.1,GCA_056471865.1;303_7_60,74,,818
+group_395,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_29,211,,809
+group_523,HeH/LEM domain-containing protein;hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_3_10,80,,798
+group_2243,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_2_21,49,,793
+group_1475,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_33_0,85,,787
+group_3610,hypothetical protein,GCF_020827035.1,GCF_020827035.1;794_0_1067,99,,783
+group_1680,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_1,61,,781
+group_1494,competence regulator inhibitor paratox;hypothetical protein;Paratox,GCA_042864555.1,GCA_042864555.1;34_0_101,73,,771
+group_2152,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_447,124,,768
+group_1237,DUF1366 domain-containing protein;hypothetical protein,GCF_900474825.1,GCF_900474825.1;1534_0_836,206,,756
+group_956,phage capsid protein;hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_3_6,129,,748
+group_915,hypothetical protein,GCF_900986715.1,GCF_900986715.1;1736_refound_42865,70,,747
+group_1020,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_45,87,,746
+group_3187,hypothetical protein,GCF_054575905.1,GCF_054575905.1;1068_9_14,56,,740
+group_1712,helicase-related protein;Eco57I restriction-modification methylase domain-containing protein;hypothetical protein,GCF_041072725.1,GCF_041072725.1;852_0_1619,3044,,730
+group_3422,IS3 family transposase;hypothetical protein;transposase,GCF_900474965.1,GCF_900474965.1;1546_0_157,449,,728
+group_1388,CHAP domain-containing protein;hypothetical protein;glucosaminidase domain-containing protein;glycoside hydrolase family 73 protein,GCF_041430965.1,GCF_041430965.1;875_0_676,433,,728
+group_682,hypothetical protein,GCF_020827055.1,GCF_020827055.1;795_refound_19591,114,,727
+group_1967,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_59,497,,725
+group_2776,hypothetical protein,GCF_000013545.1,GCF_000013545.1;424_refound_9412,93,,721
+group_1077,holin;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_511,61,,706
+group_2778,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_0_95,40,,703
+group_3428,hypothetical protein;AMP-binding protein,GCA_042864655.1,GCA_042864655.1;38_2_172,90,,698
+group_3697,phage portal protein;hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_60,422,,692
+group_1392,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_1098,67,,690
+group_675,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_58,74,,689
+group_1643,peptide-binding protein;hypothetical protein;MLS leader peptide,GCF_041430855.1,GCF_041430855.1;864_0_1036,87,,686
+group_1676,DNA-binding protein;hypothetical protein;single-stranded DNA-binding protein,GCA_056468665.1,GCA_056468665.1;255_49_32,272,,681
+group_1536,single-stranded DNA-binding protein;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_13_43,103,,680
+group_1139,hypothetical protein,GCF_001937265.1,GCF_001937265.1;610_refound_14679,84,,675
+group_3278,hypothetical protein,GCA_056473525.1,GCA_056473525.1;361_30_3,118,,670
+group_1314,phage tail spike protein;hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_0_189,684,,668
+group_1111,hypothetical protein,GCF_005165385.1,GCF_005165385.1;698_0_759,261,,667
+group_1481,hypothetical protein,GCF_900474965.1,GCF_900474965.1;1546_0_1294,99,,665
+group_568,phage tail tube protein;phage tail protein;hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_83,197,,655
+group_2220,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_20,226,,654
+group_3345,hypothetical protein,GCF_004154285.1,GCF_004154285.1;662_0_737,328,,651
+group_2266,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_3_23,77,,651
+group_662,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_84,111,,643
+group_1629,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_93,59,,639
+group_1395,hypothetical protein;vWA domain-containing protein,GCF_900993855.1,GCF_900993855.1;1788_refound_44334,58,,639
+group_1724,head decoration protein;hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_3_12,126,,637
+group_1709,recombinase family protein;hypothetical protein,GCF_001023495.1,GCF_001023495.1;574_0_1025,600,,634
+group_1529,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_50,84,,634
+group_663,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_51,66,,625
+group_781,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_13_17,102,,619
+group_917,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_54,67,,617
+group_388,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_18,137,,614
+group_1710,energy-coupling factor transporter transmembrane component T;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_13_61,233,,609
+group_1206,hypothetical protein;RuvC family protein;crossover junction endodeoxyribonuclease RuvC,GCA_042863455.1,GCA_042863455.1;4_11_22,170,,609
+group_953,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_1167,213,,609
+group_488,hypothetical protein;conjugal transfer protein,GCA_042863455.1,GCA_042863455.1;4_13_46,87,,608
+group_1633,hypothetical protein,GCA_042863875.1,GCA_042863875.1;11_13_19,63,,607
+group_4058,hypothetical protein,GCA_054325835.1,GCA_054325835.1;160_18_0,113,,602
+group_2449,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_17,144,,602
+group_1281,hypothetical protein,GCF_900985215.1,GCF_900985215.1;1721_refound_42429,86,,600
+group_1489,phage holin;hypothetical protein,GCF_900984405.1,GCF_900984405.1;1685_7_1,248,,598
+group_2419,hypothetical protein,GCA_042876485.1,GCA_042876485.1;65_10_16,75,,595
+group_2797,hypothetical protein,GCA_042876485.1,GCA_042876485.1;65_10_14,66,,594
+group_609,hypothetical protein,GCF_002250265.1,GCF_002250265.1;620_1_70,131,,594
+group_3321,hypothetical protein,GCA_042876485.1,GCA_042876485.1;65_10_10,137,,593
+group_481,hypothetical protein,GCA_054330935.1,GCA_054330935.1;220_8_73,56,,590
+group_3104,integrase core domain-containing protein;transposase;IS3 family transposase;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_refound_283,160,,568
+group_1181,DUF1366 domain-containing protein;hypothetical protein;P-loop NTPase family protein,GCF_000631345.1,GCF_000631345.1;523_0_44,241,,557
+group_3950,hypothetical protein;ISL3 family transposase,GCF_001638675.1,GCF_001638675.1;599_2_0,72,,547
+group_2849,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_2,112,,546
+group_3752,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_93,219,,538
+group_954,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_92,73,,537
+group_813,hypothetical protein,GCA_042877325.1,GCA_042877325.1;100_refound_2753,186,,537
+group_3753,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_91,257,,536
+group_3750,phage tail protein;phage tail family protein;hypothetical protein,GCF_900474795.1,GCF_900474795.1;1532_refound_36905,557,,536
+group_949,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_87,107,,536
+group_211,transposase;hypothetical protein,GCF_035918575.1,GCF_035918575.1;835_0_228,85,,536
+group_2877,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_86,40,,535
+group_1417,hypothetical protein,GCF_900475705.1,GCF_900475705.1;1570_0_311,162,,528
+group_239,hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_refound_1255,135,,526
+group_1272,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_211,83,,524
+group_4092,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_960,109,,522
+group_2829,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_42,128,,519
+group_1078,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_56,118,,519
+group_50,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_79,105,,517
+group_922,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_80,152,,516
+group_3543,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_65,126,,515
+group_4057,hypothetical protein;abortive infection protein;AIPR family protein,GCA_011290585.1,GCA_011290585.1;0_0_1141,565,,506
+group_34,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_5,46,,501
+group_3,hypothetical protein;competence protein,GCA_056476165.1,GCA_056476165.1;405_0_176,388,,500
+group_1114,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_37,56,,489
+group_2271,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_15_126,110,,487
+group_2454,pentapeptide repeat-containing protein;hypothetical protein,GCF_041901305.1,GCF_041901305.1;923_25_76,77,,485
+group_3373,YopX family protein;hypothetical protein,GCF_900984935.1,GCF_900984935.1;1708_0_535,147,,478
+group_1215,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_46,141,,474
+group_918,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_5_6,68,,459
+group_3747,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_76,131,,458
+group_942,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_74,114,,458
+group_3744,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_75,103,,457
+group_798,hypothetical protein,GCA_042864265.1,GCA_042864265.1;25_16_0,47,,451
+group_533,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_85,78,,451
+group_1258,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_208,89,,446
+group_335,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_79,231,,444
+group_451,ISAs1 family transposase;IS1182 family transposase;transposase;IS5/IS1182 family transposase;hypothetical protein,GCF_054580855.1,GCF_054580855.1;1302_refound_31570,491,,443
+group_4037,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_8_46,112,,437
+group_1550,hypothetical protein;phage replisome organizer N-terminal domain-containing protein,GCF_900985035.1,GCF_900985035.1;1712_0_47,286,,437
+group_1366,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_42,42,,431
+group_2335,hypothetical protein,GCF_056673805.1,GCF_056673805.1;1521_0_259,169,,430
+group_3627,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_12,204,,429
+group_1656,hypothetical protein;PBSX family phage terminase large subunit;Terminase-like domain protein;terminase large subunit domain-containing protein,GCA_042864675.1,GCA_042864675.1;39_refound_1237,430,,429
+group_877,hypothetical protein,GCF_054581105.1,GCF_054581105.1;1314_17_5,116,,429
+group_508,recombinase family protein;hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_77,471,,424
+group_2838,hypothetical protein,GCA_056473505.1,GCA_056473505.1;360_23_9,81,,423
+group_392,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_92,53,,414
+group_64,hypothetical protein;ISAs1 family transposase;ISAs1-like element IS1548 family transposase;transposase family protein,GCF_001640945.2,GCF_001640945.2;608_0_1375,399,,411
+group_1283,hypothetical protein,GCF_054581925.1,GCF_054581925.1;1353_refound_32804,133,,410
+group_504,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1180,55,,410
+group_994,hypothetical protein;phage tail protein,GCF_041430845.1,GCF_041430845.1;863_refound_21540,778,,408
+group_3579,hypothetical protein;MerR family transcriptional regulator,GCF_900982975.1,GCF_900982975.1;1607_0_175,111,,405
+group_518,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_79,61,,402
+group_53,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_14_17,55,,402
+group_2263,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1350,204,,396
+group_2611,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_8_92,88,,392
+group_1412,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_232_26,162,,392
+group_264,phage tail tape measure protein;hypothetical protein;phage tail protein,GCF_001638275.1,GCF_001638275.1;588_12_36,1310,,392
+group_980,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_5,144,,391
+group_1265,hypothetical protein,GCF_041901305.1,GCF_041901305.1;923_26_29,128,,387
+group_857,putative holin-like toxin;hypothetical protein,GCF_900995725.1,GCF_900995725.1;1873_0_63,54,,384
+group_1696,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_63,88,,380
+group_1255,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_3,244,,378
+group_897,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_41,69,,375
+group_703,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_44,69,,375
+group_512,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_39,52,,375
+group_528,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_115_2,69,,372
+group_460,hypothetical protein,GCF_054581445.1,GCF_054581445.1;1331_refound_32233,230,,372
+group_3803,hypothetical protein;class I SAM-dependent methyltransferase;SAM-dependent methyltransferase,GCA_042876925.1,GCA_042876925.1;84_11_54,161,,371
+group_2831,hypothetical protein,GCF_005472355.1,GCF_005472355.1;700_28_45,181,,369
+group_895,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_40,199,,369
+group_3501,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_70,44,,366
+group_2655,hypothetical protein;competence regulator inhibitor paratox;Paratox,GCA_042864315.1,GCA_042864315.1;26_3_207,62,,362
+group_1549,hypothetical protein,GCA_042863745.1,GCA_042863745.1;10_6_69,89,,361
+group_806,FliH/SctL family protein;hypothetical protein,GCF_900983455.1,GCF_900983455.1;1640_0_343,202,,359
+group_149,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_54_52,169,,347
+group_3450,hypothetical protein;DUF334 domain-containing protein,GCA_042864655.1,GCA_042864655.1;38_0_1,288,,334
+group_1446,DUF2758 domain-containing protein;hypothetical protein,GCF_054581445.1,GCF_054581445.1;1331_12_50,58,,331
+group_418,hypothetical protein;holin,GCA_041877935.1,GCA_041877935.1;1_10_106,61,,327
+group_1327,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_263_7,210,,322
+group_1302,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_232_24,57,,322
+group_3140,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_6_2,472,,320
+group_3694,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_refound_13377,74,,313
+group_2330,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_refound_2630,118,,312
+group_1246,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_42,231,,310
+group_818,phage tail protein;hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_43,787,,300
+group_2836,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_35,76,,299
+group_2880,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_11,213,,297
+group_1055,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_1_72,65,,292
+group_1128,hypothetical protein;DUF7448 domain-containing protein,GCA_042864675.1,GCA_042864675.1;39_18_23,133,,290
+group_921,hypothetical protein,GCF_900988295.1,GCF_900988295.1;1739_8_53,113,,285
+group_876,hypothetical protein,GCF_004124115.1,GCF_004124115.1;642_0_673,126,,284
+group_1160,hypothetical protein,GCF_005161125.1,GCF_005161125.1;674_0_486,79,,279
+group_3287,DUF7365 family protein;hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_20_2,90,,278
+group_3363,hypothetical protein;DUF1492 domain-containing protein,GCA_042863575.1,GCA_042863575.1;7_19_0,145,,276
+group_1103,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_5_7,160,,272
+group_3097,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_5,58,,267
+group_2537,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_3,42,,267
+group_1102,hypothetical protein,GCF_001019695.1,GCF_001019695.1;571_0_667,119,,264
+group_3946,DUF7365 family protein;hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_0_42,91,,261
+group_1390,hypothetical protein,GCA_056476145.1,GCA_056476145.1;404_refound_8838,85,,261
+group_1508,phage tail spike protein;hypothetical protein,GCF_035918495.1,GCF_035918495.1;831_0_891,685,,259
+group_3687,MerR family transcriptional regulator;hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_18,98,,255
+group_1061,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_8_0,83,,250
+group_968,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_13,88,,250
+group_1115,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_187,52,,248
+group_1557,hypothetical protein,GCA_042877765.1,GCA_042877765.1;116_4_14,107,,247
+group_1149,hypothetical protein;phage capsid protein,GCA_054326515.1,GCA_054326515.1;169_26_2,129,,244
+group_1551,YopX family protein;hypothetical protein,GCF_900475105.1,GCF_900475105.1;1553_0_563,139,,242
+group_1355,phage tail spike protein;phage tail protein;peptidase;carbohydrate binding domain-containing protein;hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_86_2,715,,241
+group_238,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_26,49,,241
+group_971,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_10_67,101,,238
+group_3766,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_56,88,,237
+group_2741,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_25,71,,235
+group_966,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_4_14,79,,232
+group_126,ParB N-terminal domain-containing protein;ABC transporter family protein;ATP-binding cassette domain-containing protein;hypothetical protein,GCF_002238295.1,GCF_002238295.1;618_0_1413,291,,227
+group_702,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_19,45,,221
+group_2770,hypothetical protein,GCF_054579745.1,GCF_054579745.1;1246_refound_30287,83,,213
+group_1048,tape measure protein;hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_refound_9084,1165,,213
+group_1880,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_44,160,,211
+group_1409,hypothetical protein,GCA_056468195.1,GCA_056468195.1;250_27_100,46,,210
+group_479,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_64,83,,210
+group_619,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_498,119,,208
+group_615,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_496,92,,208
+group_180,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_4_23,85,,207
+group_3294,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_961,73,,205
+group_3260,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_18,158,,205
+group_2812,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_501,77,,204
+group_1749,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_2_27,173,,204
+group_2795,hypothetical protein,GCA_042877605.1,GCA_042877605.1;113_5_104,46,,203
+group_3392,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_14,75,,202
+group_900,hypothetical protein;Rha family transcriptional regulator,GCA_042863975.1,GCA_042863975.1;14_54_62,205,,202
+group_1121,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_0_63,61,,199
+group_516,hypothetical protein,GCF_004135875.1,GCF_004135875.1;644_refound_15751,54,,195
+group_3858,DUF1366 domain-containing protein;hypothetical protein,GCF_900983425.1,GCF_900983425.1;1638_0_529,206,,193
+group_2430,hypothetical protein;B domain protein,GCA_011290585.1,GCA_011290585.1;0_0_498,137,,193
+group_767,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_105,99,,191
+group_4042,RuvC family protein;hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_67,170,,189
+group_3003,PcfJ domain-containing protein;hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_69,448,,189
+group_1927,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_68,110,,189
+group_1038,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_207,61,,189
+group_3326,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_14_65,51,,188
+group_1663,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_492,88,,188
+group_3194,hypothetical protein,GCF_035918575.1,GCF_035918575.1;835_0_1096,106,,184
+group_852,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_205,118,,184
+group_2602,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_54_59,120,,183
+group_2890,hypothetical protein,GCF_900983115.1,GCF_900983115.1;1619_refound_39353,56,,182
+group_829,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_193,81,,181
+group_1233,hypothetical protein,GCA_042864315.1,GCA_042864315.1;26_3_245,70,,178
+group_430,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_102,84,,177
+group_1058,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_2_7,43,,176
+group_1268,hypothetical protein;DUF1366 domain-containing protein,GCF_034436135.1,GCF_034436135.1;826_0_1347,206,,175
+group_3491,hyaluronate lyase N-terminal domain-containing protein;hypothetical protein,GCF_056673615.1,GCF_056673615.1;1502_refound_35988,407,,174
+group_998,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_8_1,54,,174
+group_3583,ISAs1-like element IS1548 family transposase;transposase;ISAs1 family transposase;hypothetical protein,GCF_900984205.1,GCF_900984205.1;1674_0_279,407,,172
+group_396,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_87,244,,171
+group_3337,hypothetical protein,GCF_000422045.1,GCF_000422045.1;436_0_315,168,,169
+group_1669,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_90,209,,169
+group_1574,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_9_6,213,,169
+group_3490,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_94,73,,168
+group_2781,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_23,199,,166
+group_2887,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_1_88,168,,165
+group_4090,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_refound_3797,52,,164
+group_1735,class I SAM-dependent methyltransferase;hypothetical protein;SAM-dependent methyltransferase;methyltransferase domain-containing protein,GCA_042876625.1,GCA_042876625.1;71_5_2,161,,162
+group_1670,hypothetical protein,GCF_001638325.1,GCF_001638325.1;589_19_71,46,,162
+group_2863,hypothetical protein,GCA_056469305.1,GCA_056469305.1;270_3_103,103,,161
+group_3581,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_85,65,,160
+group_4081,hypothetical protein,GCF_005163705.1,GCF_005163705.1;689_0_966,96,,159
+group_3935,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_10_53,189,,159
+group_1561,hypothetical protein,GCA_042877325.1,GCA_042877325.1;100_7_6,94,,156
+group_3223,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_86,140,,155
+group_3716,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_78,121,,153
+group_988,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_54_48,205,,153
+group_633,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_262_3,210,,153
+group_2571,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_92,72,,152
+group_286,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_2_1,45,,151
+group_2410,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_83,75,,150
+group_1240,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_14_3,56,,149
+group_614,hypothetical protein;excisionase,GCF_001638275.1,GCF_001638275.1;588_4_3,105,,148
+group_1748,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_0_3,46,,147
+group_3735,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_22,69,,145
+group_1050,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_9_273,94,,142
+group_3117,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_6_5,228,,141
+group_2292,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_490,97,,141
+group_1384,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_0_186,53,,141
+group_1649,competence regulator inhibitor paratox;hypothetical protein;Paratox,GCF_000007285.1,GCF_000007285.1;415_0_1018,73,,140
+group_711,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_21,64,,139
+group_708,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_20,109,,139
+group_705,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_22,94,,139
+group_654,hypothetical protein;P-loop NTPase family protein,GCA_042863455.1,GCA_042863455.1;4_7_101,92,,137
+group_1726,hypothetical protein;DUF1366 domain-containing protein,GCA_042864015.1,GCA_042864015.1;15_11_105,205,,135
+group_1332,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_232_25,169,,135
+group_4102,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_57,57,,133
+group_3660,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_13,61,,133
+group_2357,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_191,76,,131
+group_2619,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_147,94,,129
+group_1273,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_26,79,,129
+group_2452,hypothetical protein,GCF_055361625.1,GCF_055361625.1;1393_refound_33600,88,,127
+group_1326,hypothetical protein,GCF_900983305.1,GCF_900983305.1;1630_8_35,117,,127
+group_821,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_6_123,113,,126
+group_1433,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_10_95,90,,125
+group_136,hypothetical protein,GCA_042877765.1,GCA_042877765.1;116_1_175,66,,125
+group_1130,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_14,62,,123
+group_943,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_34,94,,122
+group_1238,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_refound_16308,113,,121
+group_713,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_6_61,85,,121
+group_3497,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_14_102,134,,120
+group_1322,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_210,113,,120
+group_3738,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_0_278,118,,119
+group_3634,hypothetical protein,GCA_042867785.1,GCA_042867785.1;54_0_46,90,,118
+group_1310,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_20,89,,118
+group_2830,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_14,169,,115
+group_1435,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_11_95,79,,115
+group_2756,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_16_94,211,,114
+group_1080,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_6_60,66,,113
+group_610,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_6_59,63,,113
+group_834,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_196,60,,112
+group_47,hypothetical protein,GCA_042883045.1,GCA_042883045.1;152_14_9,45,,112
+group_1267,DUF1366 domain-containing protein;hypothetical protein,GCF_001638675.1,GCF_001638675.1;599_10_145,205,,109
+group_1745,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_25,99,,108
+group_1659,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_refound_15891,177,,107
+group_716,Rha family transcriptional regulator;hypothetical protein,GCF_054580985.1,GCF_054580985.1;1308_refound_31736,208,,107
+group_576,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_refound_9081,40,,106
+group_3722,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_195,70,,105
+group_831,hypothetical protein,GCA_042863575.1,GCA_042863575.1;7_17_194,46,,104
+group_3430,AP2 domain-containing protein;hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_263_3,230,,103
+group_1464,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1477,45,,102
+group_2912,hypothetical protein,GCF_000011285.1,GCF_000011285.1;418_0_445,171,,101
+group_1484,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_475,67,,100
+group_815,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_33_24,57,,99
+group_891,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_16,72,,98
+group_4027,hypothetical protein,GCF_900994015.1,GCF_900994015.1;1796_1_221,178,,97
+group_3597,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_40,125,,97
+group_1921,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_51,185,,97
+group_1652,putative holin-like toxin;hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_49,47,,97
+group_1556,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_45,89,,97
+group_1452,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_42,90,,97
+group_893,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_0_221,73,,97
+group_650,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_48,771,,97
+group_557,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_5_29,83,,97
+group_3503,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_5_30,118,,96
+group_3442,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_33,130,,96
+group_2814,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_0_43,159,,96
+group_2490,hypothetical protein,GCF_004154085.1,GCF_004154085.1;652_refound_15920,106,,96
+group_3808,hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_0_275,111,,94
+group_3441,hypothetical protein,GCF_004154185.1,GCF_004154185.1;657_refound_16043,120,,94
+group_38,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_239_2,67,,94
+group_2788,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_5_40,48,,93
+group_290,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_10_75,61,,93
+group_4099,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_500,57,,92
+group_3261,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_87_2,52,,92
+group_2796,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_1_6,77,,92
+group_2617,hypothetical protein;phage major capsid protein,GCA_042877325.1,GCA_042877325.1;100_0_10,377,,92
+group_1065,transcriptional regulator;hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_487,133,,92
+group_1035,hypothetical protein;HK97 gp10 family phage protein,GCA_042864935.1,GCA_042864935.1;50_0_503,132,,92
+group_901,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_501,102,,92
+group_548,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_491,128,,92
+group_483,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_504,126,,92
+group_482,hypothetical protein;phage head-tail adapter protein,GCA_042864935.1,GCA_042864935.1;50_0_502,120,,92
+group_2012,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_0_232,125,,91
+group_1684,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_469,44,,91
+group_1545,DNA-binding protein;hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_15,85,,90
+group_1015,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_50,60,,90
+group_914,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_7,109,,90
+group_875,hypothetical protein,GCA_042877325.1,GCA_042877325.1;100_7_15,88,,90
+group_2886,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_62,88,,87
+group_1235,hypothetical protein;type 2 lanthipeptide synthetase LanM family protein;DUF4135 domain-containing protein;lanthionine synthetase C family protein;lanthionine synthetase LanC family protein,GCF_005160785.1,GCF_005160785.1;672_0_490,937,,87
+group_1036,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_65,81,,87
+group_1034,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_64,91,,87
+group_1030,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_60,52,,87
+group_1029,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_61,262,,87
+group_1025,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_59,77,,87
+group_3868,hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_1535,155,,86
+group_2678,hypothetical protein;cysteine peptidase family C39 domain-containing protein;peptidase domain-containing ABC transporter,GCA_042864075.1,GCA_042864075.1;18_8_7,690,,86
+group_1166,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_5_33,56,,86
+group_2612,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_33_1,71,,85
+group_2016,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_33_2,82,,85
+group_1862,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_54,173,,85
+group_1317,hypothetical protein,GCF_041877925.1,GCF_041877925.1;888_44_24,64,,85
+group_1021,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_53,88,,85
+group_1019,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_10_52,63,,85
+group_979,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_10_81,110,,85
+group_784,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_10_129,141,,84
+group_2645,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_495,70,,81
+group_2462,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_484,93,,81
+group_1023,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_4_8,171,,81
+group_985,SpaA isopeptide-forming pilin-related protein;hypothetical protein,GCA_042876645.1,GCA_042876645.1;72_5_49,1720,,81
+group_906,IS30-like element IS1239 family transposase;hypothetical protein;IS30 family transposase;helix-turn-helix domain-containing protein,GCF_900474885.1,GCF_900474885.1;1539_0_205,347,,81
+group_527,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_115_0,160,,81
+group_318,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_463,96,,81
+group_2102,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_17,80,,80
+group_1370,DNA-binding protein;hypothetical protein;single-stranded DNA-binding protein,GCA_011290585.1,GCA_011290585.1;0_0_450,218,,80
+group_1212,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1020,83,,80
+group_1144,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_0_433,131,,80
+group_1143,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_0_434,103,,80
+group_1064,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_490,67,,80
+group_944,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_0_435,114,,80
+group_744,VirB6/TrbL-like conjugal transfer protein CD1112 family;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_464,287,,80
+group_3156,DUF4041 domain-containing protein;hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_11_3,473,,79
+group_2354,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_14,76,,79
+group_1229,single-stranded DNA-binding protein;hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1027,104,,79
+group_940,relaxase/mobilization nuclease domain-containing protein;relaxase;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_442,443,,79
+group_849,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_489,97,,79
+group_443,hypothetical protein;ligand-gated ion channel,GCA_011290585.1,GCA_011290585.1;0_0_439,160,,79
+group_3713,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_10_86,170,,78
+group_2918,hypothetical protein,GCF_900474995.1,GCF_900474995.1;1548_0_458,61,,78
+group_1396,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_30,74,,78
+group_1299,C40 family peptidase;CD1108 family mobile element protein;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_460,861,,78
+group_3493,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_12_55,119,,77
+group_2910,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_2_181,48,,77
+group_2125,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_20,197,,77
+group_1439,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_4,116,,77
+group_957,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_29_1,89,,77
+group_592,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_15,47,,77
+group_531,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_2_182,83,,77
+group_3813,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_4_6,49,,76
+group_3032,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_28,60,,76
+group_2351,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_19,44,,76
+group_3070,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_225,59,,74
+group_1666,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_473,63,,74
+group_1358,DUF6088 family protein;hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_98_0,203,,74
+group_1116,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_14_1,56,,74
+group_3547,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_223,126,,73
+group_3387,IS30-like element IS1239 family transposase;helix-turn-helix domain-containing protein;hypothetical protein;IS30 family transposase,GCF_000011665.1,GCF_000011665.1;419_0_1683,354,,73
+group_2563,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_67_11,173,,73
+group_1450,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_224,90,,73
+group_40,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_2_108,67,,73
+group_3844,hypothetical protein,GCF_054579465.1,GCF_054579465.1;1232_refound_29949,110,,72
+group_3509,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_52_84,142,,72
+group_981,hypothetical protein,GCF_005163565.1,GCF_005163565.1;688_0_1075,102,,72
+group_3262,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_72,53,,71
+group_1610,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_75,57,,71
+group_1147,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_5_25,56,,71
+group_952,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_476,67,,71
+group_3196,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_43_69,152,,70
+group_2875,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_103,64,,70
+group_2668,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_104,69,,70
+group_2017,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_105,82,,70
+group_1583,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_32_8,113,,70
+group_1386,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_96_9,88,,70
+group_1256,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_5_36,189,,70
+group_1249,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_0,218,,70
+group_2773,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_43_23,90,,69
+group_2254,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_470,169,,69
+group_1671,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_26,64,,69
+group_1354,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_0_467,91,,69
+group_3690,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_567,117,,68
+group_2999,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_222,147,,68
+group_2226,hypothetical protein,GCF_002557755.1,GCF_002557755.1;624_0_314,162,,68
+group_1263,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_22,66,,68
+group_665,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_2_123,66,,68
+group_3164,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_474,56,,67
+group_2418,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_37,123,,67
+group_1728,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_483,91,,67
+group_1477,hypothetical protein,GCF_005161825.1,GCF_005161825.1;678_0_1287,160,,67
+group_3401,hypothetical protein,GCA_042877765.1,GCA_042877765.1;116_2_58,88,,66
+group_2434,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_14_80,139,,66
+group_2433,hypothetical protein,GCF_004153945.1,GCF_004153945.1;645_0_715,21,,66
+group_2424,hypothetical protein,GCF_000630965.1,GCF_000630965.1;504_0_1135,76,,66
+group_473,hypothetical protein,GCA_042864315.1,GCA_042864315.1;26_3_211,210,,66
+group_2495,hypothetical protein,GCF_900995225.1,GCF_900995225.1;1854_3_157,120,,65
+group_1673,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_523,77,,65
+group_1614,single-stranded DNA-binding protein;hypothetical protein,GCA_054331355.1,GCA_054331355.1;241_0_653,103,,65
+group_1534,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_12_179,106,,65
+group_3790,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_21,94,,63
+group_3762,hypothetical protein;head decoration protein,GCA_042877025.1,GCA_042877025.1;89_7_111,122,,63
+group_3701,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_43,55,,63
+group_712,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_710,94,,63
+group_709,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_709,64,,63
+group_707,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_708,109,,63
+group_3769,DUF2758 domain-containing protein;hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_5_75,57,,62
+group_3232,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_263_1,54,,62
+group_2306,hypothetical protein,GCF_041900815.1,GCF_041900815.1;908_21_2,129,,62
+group_1487,MerR family transcriptional regulator;hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_12_183,82,,62
+group_1743,hypothetical protein,GCF_035918595.1,GCF_035918595.1;836_refound_20786,58,,61
+group_1042,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_862,115,,61
+group_3174,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_9_111,57,,60
+group_1810,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_20_74,214,,60
+group_1369,helicase-related protein;helicase;hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_15_28,2547,,60
+group_570,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_12,132,,60
+group_4006,hypothetical protein,GCF_900982655.1,GCF_900982655.1;1588_2_46,89,,59
+group_3651,hypothetical protein,GCF_003814385.1,GCF_003814385.1;635_0_1709,219,,59
+group_1841,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_1_262,213,,59
+group_3202,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_2_69,55,,58
+group_2406,hypothetical protein,GCF_054581505.1,GCF_054581505.1;1334_1_169,125,,58
+group_2196,XRE family transcriptional regulator;hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_651,89,,58
+group_1867,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_689,85,,58
+group_1706,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_11_13,88,,58
+group_3170,hypothetical protein;exotoxin OB-fold domain-containing protein,GCF_000011665.1,GCF_000011665.1;419_0_692,73,,57
+group_2555,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_695,34,,57
+group_2511,conjugal transfer protein;hypothetical protein,GCA_042877245.1,GCA_042877245.1;96_2_239,79,,57
+group_1069,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_2_109,94,,57
+group_833,hypothetical protein,GCA_056468195.1,GCA_056468195.1;250_27_101,70,,57
+group_524,hypothetical protein;DUF2758 domain-containing protein,GCA_042864025.1,GCA_042864025.1;16_33_23,57,,57
+group_3841,hypothetical protein,GCA_042864875.1,GCA_042864875.1;49_5_65,128,,56
+group_3234,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_21_1,54,,56
+group_1580,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_13,69,,56
+group_1248,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_6_42,210,,56
+group_3455,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_2_28,129,,55
+group_2881,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_2_25,156,,55
+group_2007,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_2_24,290,,55
+group_1948,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_15_32,83,,55
+group_1190,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_4_148,212,,55
+group_404,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_2_27,104,,55
+group_686,hypothetical protein,GCF_900474965.1,GCF_900474965.1;1546_0_1296,161,,54
+group_1602,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_9_116,253,,53
+group_1220,hypothetical protein,GCA_042864935.1,GCA_042864935.1;50_11_23,67,,53
+group_3123,hypothetical protein,GCF_900985245.1,GCF_900985245.1;1722_6_26,131,,52
+group_1377,hypothetical protein,GCF_000013545.1,GCF_000013545.1;424_0_758,72,,52
+group_3325,site-specific integrase;hypothetical protein;tyrosine-type recombinase/integrase,GCA_042878385.1,GCA_042878385.1;134_13_39,380,,51
+group_1282,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_31,87,,51
+group_950,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_41,109,,51
+group_1951,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_12_19,213,,50
+group_1173,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_13_6,109,,50
+group_835,hypothetical protein,GCA_056468195.1,GCA_056468195.1;250_27_102,60,,50
+group_4029,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_9_43,87,,49
+group_3815,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_160,100,,49
+group_3603,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_1_266,125,,49
+group_3484,IS30 family transposase;hypothetical protein;IS30-like element IS1239 family transposase,GCF_000011665.1,GCF_000011665.1;419_0_1782,367,,49
+group_3168,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_11_44,95,,49
+group_2393,hypothetical protein,GCF_001638325.1,GCF_001638325.1;589_13_33,76,,49
+group_1891,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_11_16,84,,49
+group_1493,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_227,85,,49
+group_808,hypothetical protein,GCF_005161985.1,GCF_005161985.1;679_0_1441,201,,49
+group_569,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_226,46,,49
+group_5812,crossover junction endodeoxyribonuclease RuvC;RuvC family protein;hypothetical protein,GCA_042877465.1,GCA_042877465.1;106_1_133,170,,48
+group_3624,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_6_24,124,,48
+group_2715,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_231,68,,48
+group_2114,YSIRK-targeted surface antigen transcriptional regulator;hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_3_84,388,,48
+group_2038,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_12_181,201,,48
+group_1581,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_550,159,,48
+group_1218,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_5,161,,48
+group_567,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_13_2,55,,48
+group_490,hypothetical protein;conjugal transfer protein,GCA_042877245.1,GCA_042877245.1;96_2_235,87,,48
+group_5846,hypothetical protein;hyaluronate lyase N-terminal domain-containing protein,GCF_041431015.1,GCF_041431015.1;880_0_581,407,,47
+group_2840,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_12_178,158,,47
+group_3956,hypothetical protein,GCA_042877765.1,GCA_042877765.1;116_0_131,104,,46
+group_2417,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_17_66,360,,46
+group_1646,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_13,59,,46
+group_896,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_20,92,,46
+group_750,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1296,79,,46
+group_340,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_96_20,105,,46
+group_301,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_20_68,106,,46
+group_3649,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_1_55,220,,45
+group_3403,thioester-forming surface-anchored protein;fibronectin-bing protein SfbII;hypothetical protein,GCF_016549335.1,GCF_016549335.1;739_0_150,889,,45
+group_2641,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_2_12,70,,45
+group_1422,holin;hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1432,64,,45
+group_407,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_9_236,108,,45
+group_317,hypothetical protein;conjugal transfer protein,GCA_054331355.1,GCA_054331355.1;241_0_650,87,,45
+group_3338,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_171,221,,44
+group_2621,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_233,213,,44
+group_2600,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1635,110,,44
+group_796,hypothetical protein,GCF_019342925.1,GCF_019342925.1;778_0_1487,146,,44
+group_164,hypothetical protein,GCF_900985215.1,GCF_900985215.1;1721_2_119,183,,44
+group_44,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_271,89,,44
+group_1895,DUF2758 domain-containing protein;hypothetical protein,GCF_000013545.1,GCF_000013545.1;424_0_1697,57,,43
+group_543,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_6_15,78,,43
+group_2572,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_16,72,,42
+group_1290,hypothetical protein,GCF_900474835.1,GCF_900474835.1;1535_0_1033,54,,42
+group_1112,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_234,52,,42
+group_45,hypothetical protein,GCF_900984005.1,GCF_900984005.1;1661_refound_40604,45,,42
+group_4280,hypothetical protein,GCA_042876645.1,GCA_042876645.1;72_0_397,83,,41
+group_2200,hypothetical protein,GCF_002236855.1,GCF_002236855.1;616_0_1132,81,,41
+group_1635,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_88,61,,41
+group_1306,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_697,58,,41
+group_723,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_1426,63,,41
+group_390,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_471,262,,41
+group_3109,ABC transporter permease;hypothetical protein;tetronasin resistance protein,GCA_056471865.1,GCA_056471865.1;303_7_41,549,,40
+group_2510,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1196,176,,40
+group_1462,hypothetical protein,GCF_001638275.1,GCF_001638275.1;588_10_3,102,,40
+group_972,hypothetical protein,GCF_001638675.1,GCF_001638675.1;599_0_173,101,,40
+group_3840,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_3_61,142,,39
+group_3035,IS630 transposase-related protein;helix-turn-helix domain-containing protein;hypothetical protein,GCF_000422045.1,GCF_000422045.1;436_0_424,109,,39
+group_2402,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_1_187,182,,39
+group_1630,hypothetical protein,GCF_900474925.1,GCF_900474925.1;1542_0_918,90,,39
+group_5863,peptide deformylase;hypothetical protein;IS30-like element IS1239 family transposase;IS30 family transposase,GCF_020827095.1,GCF_020827095.1;797_0_687,354,,38
+group_4047,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_230,113,,38
+group_3344,hypothetical protein;tyrosine-type recombinase/integrase,GCA_054330915.1,GCA_054330915.1;219_12_37,378,,38
+group_2313,hypothetical protein,GCF_005161985.1,GCF_005161985.1;679_0_939,133,,38
+group_1801,hypothetical protein,GCF_001638275.1,GCF_001638275.1;588_10_1,215,,38
+group_398,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_6_16,104,,38
+group_391,hypothetical protein,GCF_001638275.1,GCF_001638275.1;588_10_0,241,,38
+group_5972,hypothetical protein,GCF_001638405.1,GCF_001638405.1;592_7_25,94,,37
+group_3298,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_0_74,82,,37
+group_3243,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_4_6,54,,37
+group_2523,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_233_18,73,,37
+group_989,hypothetical protein,GCA_042877545.1,GCA_042877545.1;110_0_383,193,,37
+group_679,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_2_116,74,,37
+group_3348,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_11_0,288,,36
+group_3132,hypothetical protein,GCF_054581145.1,GCF_054581145.1;1316_13_5,170,,36
+group_5816,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_13_4,66,,35
+group_4022,hypothetical protein,GCF_019343005.1,GCF_019343005.1;782_0_161,145,,35
+group_3839,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_42_0,125,,35
+group_5627,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_11_8,138,,34
+group_3553,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_7_22,126,,34
+group_2841,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_10,158,,34
+group_2505,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_57_0,176,,34
+group_2159,hypothetical protein,GCF_054575285.1,GCF_054575285.1;1037_4_122,57,,34
+group_2759,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_14,161,,33
+group_2573,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_7_88,167,,33
+group_2051,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1729,201,,33
+group_1834,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1533,142,,33
+group_1714,hypothetical protein;phage tail protein,GCA_042878385.1,GCA_042878385.1;134_13_2,240,,33
+group_1707,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_0_1656,158,,33
+group_1698,hypothetical protein;HK97 gp10 family phage protein,GCA_042878385.1,GCA_042878385.1;134_13_6,114,,33
+group_1697,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_7,115,,33
+group_448,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_18,154,,33
+group_4186,hypothetical protein;helix-turn-helix domain-containing protein;multiprotein-bridging factor 1 family protein,GCF_041901355.1,GCF_041901355.1;925_46_0,87,,32
+group_3195,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_9_61,75,,32
+group_2160,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_11_101,79,,32
+group_910,head decoration protein;hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1042,126,,32
+group_5858,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_611,146,,31
+group_5633,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_11_3,144,,31
+group_4103,hypothetical protein,GCF_002844355.1,GCF_002844355.1;625_0_920,149,,31
+group_2425,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_19,75,,31
+group_2374,hypothetical protein,GCF_900475175.1,GCF_900475175.1;1558_0_1687,71,,31
+group_2314,hypothetical protein;hyaluronate lyase N-terminal domain-containing protein,GCF_002163545.1,GCF_002163545.1;615_0_530,424,,31
+group_1751,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_4_185,88,,31
+group_1647,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_4_221,180,,31
+group_1632,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_7_109,93,,31
+group_24,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_9,112,,31
+group_5611,hypothetical protein,GCA_054326615.1,GCA_054326615.1;174_29_0,211,,30
+group_3756,hypothetical protein,GCA_042864015.1,GCA_042864015.1;15_2_23,63,,30
+group_630,hypothetical protein,GCF_000012165.2,GCF_000012165.2;421_0_910,104,,30
+group_5945,hypothetical protein,GCF_002844355.1,GCF_002844355.1;625_0_307,162,,29
+group_3842,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_133,144,,29
+group_3431,hypothetical protein,GCF_001638325.1,GCF_001638325.1;589_19_62,121,,29
+group_3418,IS3 family transposase;hypothetical protein,GCF_900995725.1,GCF_900995725.1;1873_8_71,33,,29
+group_2981,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_4_190,149,,29
+group_1802,hypothetical protein,GCF_002163545.1,GCF_002163545.1;615_0_531,215,,29
+group_408,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_9,152,,29
+group_4138,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1071,358,,28
+group_3698,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_32,122,,28
+group_3506,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_33,44,,28
+group_3264,hypothetical protein,GCA_042867545.1,GCA_042867545.1;51_2_38,53,,28
+group_3242,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_35,54,,28
+group_1998,hypothetical protein,GCA_042863975.1,GCA_042863975.1;14_42_6,203,,28
+group_5676,hypothetical protein,GCA_056467685.1,GCA_056467685.1;243_27_1,304,,27
+group_5675,hypothetical protein,GCA_056467685.1,GCA_056467685.1;243_27_2,70,,27
+group_4144,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_49_7,62,,27
+group_4137,YiiX/YebB-like N1pC/P60 family cysteine hydrolase;hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1072,218,,27
+group_3760,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_4_219,307,,27
+group_2550,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_1427,180,,27
+group_1822,hypothetical protein,GCA_042864695.1,GCA_042864695.1;40_3_96,86,,27
+group_1771,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_12_54,217,,27
+group_1742,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_6_0,88,,27
+group_1597,hypothetical protein,GCF_002844355.1,GCF_002844355.1;625_0_908,132,,27
+group_1492,DUF4355 domain-containing protein;hypothetical protein;capsid assembly scaffolding protein Gp46 family protein,GCA_042877025.1,GCA_042877025.1;89_7_110,206,,27
+group_819,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_9_2,55,,27
+group_629,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_9_296,785,,27
+group_2421,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_7_108,75,,26
+group_1856,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_32_7,85,,26
+group_959,hypothetical protein,GCF_000629665.1,GCF_000629665.1;439_0_1046,83,,26
+group_789,hypothetical protein,GCF_001638845.2,GCF_001638845.2;605_0_335,152,,26
+group_5739,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_8_174,407,,25
+group_5732,hypothetical protein;DUF334 domain-containing protein,GCF_000230295.1,GCF_000230295.1;428_0_1185,288,,25
+group_4160,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_38,123,,25
+group_4156,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_41,95,,25
+group_4151,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_49_3,97,,25
+group_4150,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_34,52,,25
+group_4148,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_35,123,,25
+group_4147,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_3_37,140,,25
+group_4141,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_49_6,66,,25
+group_1938,hypothetical protein;DEAD/DEAH box helicase;DEAD/DEAH box helicase family protein,GCA_011290585.1,GCA_011290585.1;0_0_443,753,,25
+group_1677,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_2,110,,25
+group_1478,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_9_403,128,,25
+group_3987,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_16_4,115,,24
+group_3866,site-specific DNA-methyltransferase;hypothetical protein;DNA methyltransferase,GCF_028215815.1,GCF_028215815.1;808_0_1014,871,,24
+group_3241,hypothetical protein,GCF_001638325.1,GCF_001638325.1;589_19_63,140,,24
+group_3166,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_16_0,250,,24
+group_3028,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_87,60,,24
+group_2739,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_1_122,162,,24
+group_2489,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_16_5,177,,24
+group_2224,hypothetical protein,GCF_900474645.1,GCF_900474645.1;1528_0_309,150,,24
+group_1859,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_7,212,,24
+group_1607,hypothetical protein,GCF_035918575.1,GCF_035918575.1;835_0_1618,81,,24
+group_1596,hypothetical protein,GCF_000422045.1,GCF_000422045.1;436_0_932,89,,24
+group_175,hypothetical protein,GCF_041900945.1,GCF_041900945.1;911_103_2,183,,24
+group_5679,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_24_1,65,,23
+group_3838,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_12_24,138,,23
+group_3739,hypothetical protein,GCA_056471865.1,GCA_056471865.1;303_7_38,37,,23
+group_2530,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_501,73,,23
+group_2458,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_14_103,149,,23
+group_1778,hypothetical protein;DUF1697 domain-containing protein,GCA_054330915.1,GCA_054330915.1;219_16_6,58,,23
+group_1747,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_0_1042,84,,23
+group_924,hypothetical protein,GCA_042877545.1,GCA_042877545.1;110_13_2,81,,23
+group_505,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_505,257,,23
+group_5889,helicase;DNA helicase;helicase-related protein;hypothetical protein;DEAD/DEAH box helicase family protein,GCA_042876645.1,GCA_042876645.1;72_9_28,2547,,22
+group_5397,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_0_205,84,,22
+group_4175,hypothetical protein;DNA recombinase,GCA_041901925.1,GCA_041901925.1;3_25_0,165,,22
+group_3865,hypothetical protein;Fic family protein,GCA_054330915.1,GCA_054330915.1;219_16_2,98,,22
+group_3630,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_268,41,,22
+group_3567,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_13,43,,22
+group_3512,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_16_3,44,,22
+group_3500,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_6_121,67,,22
+group_3476,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_16_61,128,,22
+group_3360,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_100,50,,22
+group_3172,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_270,56,,22
+group_3131,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_10_41,309,,22
+group_2900,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_727,67,,22
+group_2803,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_707,45,,22
+group_2620,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1531,71,,22
+group_2539,recombinase family protein;hypothetical protein,GCF_041071735.1,GCF_041071735.1;849_0_1196,647,,22
+group_2264,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_10_40,189,,22
+group_1950,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_10_39,120,,22
+group_1790,N-6 DNA methylase;hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_16_1,135,,22
+group_526,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_9_41,160,,22
+group_4158,hypothetical protein,GCA_042882885.1,GCA_042882885.1;148_0_263,82,,21
+group_4045,hypothetical protein,GCF_004135875.1,GCF_004135875.1;644_0_310,185,,21
+group_3625,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_0_241,41,,21
+group_3609,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_8,125,,21
+group_3588,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1105,138,,21
+group_3417,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_12,47,,21
+group_3068,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_14_107,145,,21
+group_1690,hypothetical protein,GCF_006740645.1,GCF_006740645.1;714_refound_17434,120,,21
+group_1216,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1097,75,,21
+group_795,hypothetical protein,GCF_003203475.1,GCF_003203475.1;627_0_318,140,,21
+group_471,hypothetical protein,GCA_042864075.1,GCA_042864075.1;18_14_106,114,,21
+group_5956,hypothetical protein,GCA_042867545.1,GCA_042867545.1;51_0_87,139,,20
+group_5895,hypothetical protein,GCA_054326615.1,GCA_054326615.1;174_39_0,118,,20
+group_5727,hypothetical protein,GCF_000009385.1,GCF_000009385.1;417_0_493,40,,20
+group_4061,hypothetical protein,GCF_900983285.1,GCF_900983285.1;1628_0_84,208,,20
+group_3877,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_34_29,74,,20
+group_3308,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_0_15,52,,20
+group_3180,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_1103,45,,20
+group_2932,hypothetical protein,GCF_003203475.1,GCF_003203475.1;627_0_1585,63,,20
+group_2765,hypothetical protein,GCF_003203475.1,GCF_003203475.1;627_0_1584,67,,20
+group_2367,hypothetical protein,GCF_004124115.1,GCF_004124115.1;642_0_315,138,,20
+group_1577,hypothetical protein,GCF_041900915.1,GCF_041900915.1;910_32_82,144,,20
+group_1535,hypothetical protein,GCF_900984225.1,GCF_900984225.1;1675_0_56,90,,20
+group_1174,hypothetical protein;phage replisome organizer N-terminal domain-containing protein,GCF_004124075.1,GCF_004124075.1;641_0_1112,245,,20
+group_932,hypothetical protein,GCA_042877765.1,GCA_042877765.1;116_0_279,96,,20
+group_855,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_0_14,97,,20
+group_816,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_2_55,63,,20
+group_486,hypothetical protein,GCF_003203475.1,GCF_003203475.1;627_0_319,258,,20
+group_5942,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_5_90,223,,19
+group_4216,N-6 DNA methylase;hypothetical protein,GCF_004124075.1,GCF_004124075.1;641_0_1126,342,,19
+group_2230,hypothetical protein,GCA_042863455.1,GCA_042863455.1;4_7_82,191,,19
+group_1589,hypothetical protein,GCF_900993445.1,GCF_900993445.1;1767_3_103,194,,19
+group_992,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_6_21,87,,19
+group_5849,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_8_2,163,,18
+group_5825,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_5_82,195,,18
+group_5694,hypothetical protein,GCF_000629665.1,GCF_000629665.1;439_0_957,67,,18
+group_4683,hypothetical protein,GCF_005160565.1,GCF_005160565.1;671_0_1295,178,,18
+group_4445,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1111,133,,18
+group_4257,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_14_11,74,,18
+group_4254,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_48,75,,18
+group_4251,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_14_8,76,,18
+group_4064,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_9_11,81,,18
+group_3881,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_6_47,60,,18
+group_3443,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_34_36,46,,18
+group_3208,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1108,141,,18
+group_3145,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_619,157,,18
+group_3133,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_167,157,,18
+group_2956,hypothetical protein,GCF_001182065.1,GCF_001182065.1;577_1_169,151,,18
+group_2378,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_9_400,184,,18
+group_2163,hypothetical protein;SHOCT domain-containing protein,GCF_000011665.1,GCF_000011665.1;419_0_1110,32,,18
+group_1570,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_10_7,89,,18
+group_1347,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_9_399,91,,18
+group_964,hypothetical protein,GCF_036347555.1,GCF_036347555.1;837_0_809,96,,18
+group_5885,hypothetical protein;MiiA motif-containing surface protein;adhesin,GCF_055361765.1,GCF_055361765.1;1400_0_736,1745,,17
+group_5859,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_4_66,220,,17
+group_5826,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_2_176,159,,17
+group_5780,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1058,76,,17
+group_5757,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_5_84,168,,17
+group_5689,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1188,91,,17
+group_5649,hypothetical protein,GCF_056673565.1,GCF_056673565.1;1497_0_779,69,,17
+group_5623,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1062,62,,17
+group_4409,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_10_41,97,,17
+group_3265,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_5_88,53,,17
+group_3249,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1057,54,,17
+group_3094,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_9_404,144,,17
+group_1208,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_99,46,,17
+group_5964,hypothetical protein;peptide chain release factor 2,GCF_000146715.1,GCF_000146715.1;426_0_1517,66,,16
+group_5954,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_207,88,,16
+group_5929,hypothetical protein,GCF_001638845.2,GCF_001638845.2;605_0_1536,109,,16
+group_5916,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_12_82,128,,16
+group_5881,hypothetical protein,GCA_042864795.1,GCA_042864795.1;45_11_10,204,,16
+group_5838,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_1_60,148,,16
+group_5770,hypothetical protein,GCF_002238295.1,GCF_002238295.1;618_0_317,150,,16
+group_5746,hypothetical protein;CopG family transcriptional regulator,GCA_054330855.1,GCA_054330855.1;216_20_4,73,,16
+group_4234,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_14_1,82,,16
+group_4190,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_16_24,140,,16
+group_4187,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_7_0,68,,16
+group_3562,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_703,43,,16
+group_3175,hypothetical protein,GCF_000629725.1,GCF_000629725.1;442_2_165,56,,16
+group_2659,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_11_37,70,,16
+group_2583,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_704,72,,16
+group_5949,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_20_0,156,,15
+group_5883,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_42,139,,15
+group_5835,hypothetical protein,GCF_044361075.1,GCF_044361075.1;936_0_1571,109,,15
+group_4318,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_74,79,,15
+group_4317,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_72,235,,15
+group_4272,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_20_1,201,,15
+group_4193,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_1_31,68,,15
+group_3236,hypothetical protein,GCA_042864555.1,GCA_042864555.1;34_0_73,54,,15
+group_2813,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_9_402,159,,15
+group_2478,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_10_2,46,,15
+group_1971,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_6_87,318,,15
+group_1512,hypothetical protein,GCF_900475955.1,GCF_900475955.1;1577_0_577,98,,15
+group_770,hypothetical protein,GCA_056473105.1,GCA_056473105.1;346_21_3,61,,15
+group_506,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_26,105,,15
+group_5944,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_1_10,210,,14
+group_5920,hypothetical protein,GCF_005162565.1,GCF_005162565.1;682_0_862,40,,14
+group_5912,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_210_21,140,,14
+group_5909,hypothetical protein,GCF_000009385.1,GCF_000009385.1;417_0_1433,154,,14
+group_5879,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_1_31,143,,14
+group_5842,hypothetical protein,GCF_000630445.1,GCF_000630445.1;478_0_745,71,,14
+group_5766,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_23_1,75,,14
+group_5745,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_206,173,,14
+group_5418,hypothetical protein,GCF_000009385.1,GCF_000009385.1;417_0_1687,185,,14
+group_5008,hypothetical protein,GCF_041878115.1,GCF_041878115.1;894_93_0,51,,14
+group_5005,hypothetical protein,GCF_041878115.1,GCF_041878115.1;894_53_3,88,,14
+group_5003,hypothetical protein,GCF_041878115.1,GCF_041878115.1;894_53_0,103,,14
+group_4643,hypothetical protein,GCF_004124075.1,GCF_004124075.1;641_0_135,141,,14
+group_4639,hypothetical protein,GCF_002238295.1,GCF_002238295.1;618_0_1382,278,,14
+group_4377,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_202,77,,14
+group_4376,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_199,82,,14
+group_4374,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_201,49,,14
+group_4373,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_197,82,,14
+group_4372,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_200,261,,14
+group_4371,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_196,73,,14
+group_3893,hypothetical protein,GCF_005163385.1,GCF_005163385.1;687_0_973,91,,14
+group_3092,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_86_6,144,,14
+group_1457,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_13_1,225,,14
+group_797,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_2_84,162,,14
+group_259,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_13_3,107,,14
+group_5923,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_9_92,200,,13
+group_5897,hypothetical protein,GCF_900983855.1,GCF_900983855.1;1655_7_83,171,,13
+group_5725,hypothetical protein,GCF_005160565.1,GCF_005160565.1;671_0_560,119,,13
+group_5666,hypothetical protein,GCA_042863475.1,GCA_042863475.1;5_8_0,192,,13
+group_5650,hypothetical protein,GCF_000230295.1,GCF_000230295.1;428_0_942,79,,13
+group_5493,hypothetical protein,GCF_000685525.1,GCF_000685525.1;556_19_3,75,,13
+group_5023,helicase-related protein;hypothetical protein;helicase,GCF_044360885.1,GCF_044360885.1;933_0_1559,2796,,13
+group_5022,hypothetical protein,GCF_044360885.1,GCF_044360885.1;933_0_1555,76,,13
+group_4473,hypothetical protein,GCF_000629925.1,GCF_000629925.1;452_2_57,47,,13
+group_4444,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_962,55,,13
+group_4438,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_366,116,,13
+group_4314,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_0_666,138,,13
+group_4313,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_0_665,158,,13
+group_4117,Maff2 family mobile element protein;hypothetical protein,GCF_054578885.1,GCF_054578885.1;1204_9_38,51,,13
+group_3657,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1061,40,,13
+group_3514,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1085,44,,13
+group_3393,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_19,48,,13
+group_3271,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1062,139,,13
+group_3210,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1089,55,,13
+group_2955,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1092,384,,13
+group_2662,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1081,167,,13
+group_2270,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1091,189,,13
+group_2198,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_18,193,,13
+group_2002,hypothetical protein;DUF1643 domain-containing protein,GCF_000011665.1,GCF_000011665.1;419_0_1104,26,,13
+group_1863,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1086,107,,13
+group_571,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_1_86,132,,13
+group_423,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1064,105,,13
+group_422,hypothetical protein,GCF_044360885.1,GCF_044360885.1;933_0_1582,104,,13
+group_49,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1372,139,,13
+group_5959,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_579,89,,12
+group_5943,LPXTG cell wall anchor domain-containing protein;G5 domain-containing protein;collagen-flanked surface repeat-containing protein;YSIRK-type signal peptide-containing protein;hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_997,1322,,12
+group_5941,hypothetical protein,GCF_005165385.1,GCF_005165385.1;698_0_1382,197,,12
+group_5860,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_27_0,211,,12
+group_5802,hypothetical protein,GCF_004154225.1,GCF_004154225.1;659_0_352,84,,12
+group_5755,hypothetical protein,GCF_001638675.1,GCF_001638675.1;599_7_2,168,,12
+group_5696,hypothetical protein,GCA_042877545.1,GCA_042877545.1;110_13_0,56,,12
+group_5538,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_84_0,112,,12
+group_4335,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_4_65,144,,12
+group_4312,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_0_664,175,,12
+group_3275,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1373,139,,12
+group_3217,hypothetical protein,GCF_044361075.1,GCF_044361075.1;936_0_1612,141,,12
+group_2903,hypothetical protein,GCF_000685525.1,GCF_000685525.1;556_27_3,155,,12
+group_1668,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1065,68,,12
+group_1664,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1370,220,,12
+group_790,hypothetical protein,GCF_054581445.1,GCF_054581445.1;1331_5_39,121,,12
+group_5896,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_208,63,,11
+group_5841,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_396,137,,11
+group_5827,hypothetical protein,GCF_900474815.1,GCF_900474815.1;1533_0_30,364,,11
+group_5808,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_209,73,,11
+group_5697,hypothetical protein,GCF_002236875.1,GCF_002236875.1;617_refound_14869,133,,11
+group_4730,hypothetical protein,GCF_005161825.1,GCF_005161825.1;678_0_912,259,,11
+group_4728,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1125,137,,11
+group_4555,hypothetical protein,GCF_001638325.1,GCF_001638325.1;589_17_83,149,,11
+group_4548,hypothetical protein,GCF_001019635.1,GCF_001019635.1;569_0_687,78,,11
+group_4430,hypothetical protein,GCA_056468555.1,GCA_056468555.1;253_0_76,40,,11
+group_3794,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_274,162,,11
+group_3302,hypothetical protein,GCF_001019635.1,GCF_001019635.1;569_0_473,138,,11
+group_3214,hypothetical protein,GCF_005161125.1,GCF_005161125.1;674_0_994,55,,11
+group_2364,hypothetical protein;helix-turn-helix domain-containing protein,GCA_042877345.1,GCA_042877345.1;101_2_212,61,,11
+group_2182,hypothetical protein,GCF_000250925.1,GCF_000250925.1;430_0_1548,49,,11
+group_2111,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_272,80,,11
+group_2088,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1045,81,,11
+group_1979,hypothetical protein,GCF_005161125.1,GCF_005161125.1;674_0_1003,173,,11
+group_1682,transcriptional regulator;hypothetical protein,GCF_000009385.1,GCF_000009385.1;417_0_595,71,,11
+group_1672,DUF1642 domain-containing protein;hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_181,109,,11
+group_1483,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_1_6,132,,11
+group_1479,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_1_5,150,,11
+group_1351,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_307,57,,11
+group_1341,hypothetical protein,GCA_042867785.1,GCA_042867785.1;54_1_208,201,,11
+group_1070,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_304,149,,11
+group_960,hypothetical protein,GCF_005161125.1,GCF_005161125.1;674_0_1004,96,,11
+group_778,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1046,98,,11
+group_685,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_275,99,,11
+group_587,hypothetical protein;thioredoxin domain-containing protein,GCA_042877265.1,GCA_042877265.1;97_0_303,126,,11
+group_105,hypothetical protein,GCF_000250925.1,GCF_000250925.1;430_0_1547,275,,11
+group_5962,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_199,141,,10
+group_5939,hypothetical protein,GCF_001019635.1,GCF_001019635.1;569_0_322,206,,10
+group_5915,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_9_84,160,,10
+group_5847,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_43,183,,10
+group_5815,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1184,49,,10
+group_4547,hypothetical protein,GCF_001019635.1,GCF_001019635.1;569_0_317,123,,10
+group_4281,hypothetical protein,GCA_042876645.1,GCA_042876645.1;72_0_400,143,,10
+group_4275,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_6_22,128,,10
+group_2954,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_1_8,151,,10
+group_2951,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_13_5,151,,10
+group_2660,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1066,70,,10
+group_2622,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_876,71,,10
+group_2543,hypothetical protein,GCA_042876565.1,GCA_042876565.1;68_1_7,174,,10
+group_1604,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1337,52,,10
+group_1169,hypothetical protein,GCA_042877025.1,GCA_042877025.1;89_9_40,48,,10
+group_1090,hypothetical protein,GCF_900475335.1,GCF_900475335.1;1559_0_496,125,,10
+group_438,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_257,90,,10
+group_405,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_262,65,,10
+group_5870,LPXTG cell wall anchor domain-containing protein;hypothetical protein,GCF_005161125.1,GCF_005161125.1;674_0_133,466,,9
+group_5843,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_1409,234,,9
+group_5747,hypothetical protein,GCF_005161825.1,GCF_005161825.1;678_0_474,145,,9
+group_5733,hypothetical protein,GCF_002055535.1,GCF_002055535.1;614_0_1338,136,,9
+group_5671,hypothetical protein,GCA_056473105.1,GCA_056473105.1;346_21_10,102,,9
+group_4893,hypothetical protein,GCF_020827075.1,GCF_020827075.1;796_0_1677,263,,9
+group_4804,hypothetical protein,GCF_020827075.1,GCF_020827075.1;796_0_1490,164,,9
+group_4802,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_1510,74,,9
+group_4794,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_304,182,,9
+group_4775,hypothetical protein,GCF_005163245.1,GCF_005163245.1;686_0_941,74,,9
+group_4536,hypothetical protein,GCF_000630725.1,GCF_000630725.1;492_0_1331,216,,9
+group_4447,hypothetical protein,GCF_000011665.1,GCF_000011665.1;419_0_1138,69,,9
+group_4282,hypothetical protein,GCA_042876865.1,GCA_042876865.1;81_3_61,144,,9
+group_4269,hypothetical protein,GCA_042864735.1,GCA_042864735.1;42_0_180,272,,9
+group_4180,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_262_1,138,,9
+group_4179,hypothetical protein,GCA_041901925.1,GCA_041901925.1;3_262_0,184,,9
+group_4136,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_787,98,,9
+group_3433,hypothetical protein,GCF_054575765.1,GCF_054575765.1;1061_0_237,47,,9
+group_2554,hypothetical protein,GCF_041431015.1,GCF_041431015.1;880_0_539,73,,9
+group_1421,hypothetical protein,GCF_041431015.1,GCF_041431015.1;880_0_566,89,,9
+group_59,hypothetical protein,GCF_005162405.1,GCF_005162405.1;681_0_610,278,,9
+group_5913,hypothetical protein,GCF_900993605.1,GCF_900993605.1;1775_7_60,146,,8
+group_5867,hypothetical protein,GCF_054579845.1,GCF_054579845.1;1251_6_22,129,,8
+group_5703,hypothetical protein,GCF_044361075.1,GCF_044361075.1;936_refound_23955,68,,8
+group_5654,hypothetical protein,GCF_000630585.1,GCF_000630585.1;485_0_461,66,,8
+group_5639,hypothetical protein,GCF_001635895.1,GCF_001635895.1;585_0_573,75,,8
+group_5000,hypothetical protein,GCF_041431015.1,GCF_041431015.1;880_0_537,81,,8
+group_4935,hypothetical protein,GCF_005162725.1,GCF_005162725.1;683_0_306,210,,8
+group_4816,hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_70,68,,8
+group_4792,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_9_89,150,,8
+group_4554,hypothetical protein,GCF_001638275.1,GCF_001638275.1;588_6_7,56,,8
+group_4546,hypothetical protein,GCF_001019635.1,GCF_001019635.1;569_0_316,137,,8
+group_4370,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_191,57,,8
+group_4369,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_2_192,211,,8
+group_4164,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_0,57,,8
+group_3809,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_236,56,,8
+group_3576,hypothetical protein,GCF_041431015.1,GCF_041431015.1;880_0_568,126,,8
+group_3534,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_85,44,,8
+group_3285,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_61,139,,8
+group_3220,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_89,55,,8
+group_2960,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_77,151,,8
+group_2879,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_92,393,,8
+group_2853,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_81,158,,8
+group_2686,hypothetical protein,GCF_041431015.1,GCF_041431015.1;880_0_532,69,,8
+group_2623,hypothetical protein,GCF_000631245.1,GCF_000631245.1;518_0_954,61,,8
+group_2593,hypothetical protein,GCF_004154125.1,GCF_004154125.1;654_0_501,135,,8
+group_2442,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_1338,75,,8
+group_2390,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_482,437,,8
+group_2385,hypothetical protein,GCF_900474925.1,GCF_900474925.1;1542_0_1211,97,,8
+group_2274,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_91,189,,8
+group_2063,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_12,200,,8
+group_1918,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_70,208,,8
+group_1640,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_4_35,150,,8
+group_311,hypothetical protein,GCF_035918575.1,GCF_035918575.1;835_0_1083,71,,8
+group_282,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_86,107,,8
+group_249,hypothetical protein,GCF_054576605.1,GCF_054576605.1;1101_3_63,108,,8
+group_5781,hypothetical protein,GCA_042863555.1,GCA_042863555.1;6_7_0,102,,7
+group_5768,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_1583,109,,7
+group_5763,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_9_2,220,,7
+group_5761,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_31,346,,7
+group_5691,hypothetical protein,GCF_000993765.1,GCF_000993765.1;566_0_779,117,,7
+group_5685,hypothetical protein,GCA_042864655.1,GCA_042864655.1;38_10_33,137,,7
+group_5678,hypothetical protein,GCA_056468885.1,GCA_056468885.1;260_15_20,304,,7
+group_5677,hypothetical protein,GCA_056468885.1,GCA_056468885.1;260_15_19,70,,7
+group_5664,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_28_0,45,,7
+group_5646,hypothetical protein,GCF_001635895.1,GCF_001635895.1;585_0_569,158,,7
+group_5374,hypothetical protein,GCF_900983545.1,GCF_900983545.1;1644_5_9,52,,7
+group_5222,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_1411,132,,7
+group_5221,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_1414,90,,7
+group_4915,hypothetical protein,GCA_042864675.1,GCA_042864675.1;39_5_28,99,,7
+group_4823,hypothetical protein,GCF_005160785.1,GCF_005160785.1;672_0_370,149,,7
+group_4788,hypothetical protein,GCF_001638385.1,GCF_001638385.1;591_9_90,226,,7
+group_4729,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1748,300,,7
+group_4642,hypothetical protein,GCF_004124015.1,GCF_004124015.1;640_0_1149,53,,7
+group_4419,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_12_5,67,,7
+group_4417,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_21_2,126,,7
+group_4224,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_29,236,,7
+group_4221,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_24,99,,7
+group_4220,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_23,120,,7
+group_4219,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_22,149,,7
+group_4131,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_472,141,,7
+group_4111,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_467,67,,7
+group_3775,hypothetical protein,GCF_001638405.1,GCF_001638405.1;592_19_130,120,,7
+group_3761,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1216,307,,7
+group_3652,hypothetical protein,GCF_003352145.1,GCF_003352145.1;628_0_1028,314,,7
+group_3511,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_1420,146,,7
+group_3204,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_15,55,,7
+group_2590,hypothetical protein,GCF_001638405.1,GCF_001638405.1;592_19_132,72,,7
+group_2551,hypothetical protein,GCF_900994145.1,GCF_900994145.1;1803_7_83,136,,7
+group_2034,hypothetical protein,GCF_002236855.1,GCF_002236855.1;616_0_259,157,,7
+group_1843,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_923,213,,7
+group_1654,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_62,89,,7
+group_1113,hypothetical protein,GCF_001638405.1,GCF_001638405.1;592_19_131,94,,7
+group_1089,hypothetical protein;competence regulator inhibitor paratox,GCF_001638405.1,GCF_001638405.1;592_24_2,53,,7
+group_1054,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_1_73,46,,7
+group_429,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_587,144,,7
+group_362,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1528,70,,7
+group_5966,hypothetical protein,GCF_005222545.1,GCF_005222545.1;699_0_1256,126,,6
+group_5960,hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_317,203,,6
+group_5951,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_93,162,,6
+group_5926,hypothetical protein;transcriptional regulator,GCF_000630025.1,GCF_000630025.1;457_0_586,77,,6
+group_5914,hypothetical protein,GCF_900994385.1,GCF_900994385.1;1813_6_84,223,,6
+group_5910,hypothetical protein,GCF_035918475.1,GCF_035918475.1;830_0_1372,143,,6
+group_5908,hypothetical protein,GCF_900475465.1,GCF_900475465.1;1562_0_1372,127,,6
+group_5850,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_1528,135,,6
+group_5828,hypothetical protein,GCF_900986205.1,GCF_900986205.1;1735_10_42,145,,6
+group_5787,hypothetical protein,GCF_000167435.2,GCF_000167435.2;427_0_727,101,,6
+group_5743,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_10_4,128,,6
+group_5737,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_1_25,243,,6
+group_5614,hypothetical protein,GCF_041430985.1,GCF_041430985.1;877_0_532,209,,6
+group_5373,hypothetical protein,GCF_900475875.1,GCF_900475875.1;1575_0_1309,150,,6
+group_5250,hypothetical protein,GCF_900475565.1,GCF_900475565.1;1567_0_1580,142,,6
+group_5102,hypothetical protein,GCF_054580985.1,GCF_054580985.1;1308_16_45,64,,6
+group_5081,hypothetical protein,GCF_054577745.1,GCF_054577745.1;1147_2_19,54,,6
+group_5080,hypothetical protein,GCF_054577745.1,GCF_054577745.1;1147_2_18,111,,6
+group_4923,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_1040,92,,6
+group_4889,hypothetical protein,GCF_020827055.1,GCF_020827055.1;795_0_208,131,,6
+group_4864,hypothetical protein,GCF_014192005.1,GCF_014192005.1;730_0_1489,99,,6
+group_4811,hypothetical protein,GCF_005164305.1,GCF_005164305.1;692_0_316,150,,6
+group_4810,hypothetical protein,GCF_005164305.1,GCF_005164305.1;692_0_314,151,,6
+group_4757,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1646,490,,6
+group_4684,hypothetical protein,GCF_005160785.1,GCF_005160785.1;672_0_135,126,,6
+group_4508,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_588,162,,6
+group_4492,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_590,80,,6
+group_4478,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_584,142,,6
+group_4440,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_1057,56,,6
+group_4420,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_7_83,179,,6
+group_4418,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_12_6,152,,6
+group_4362,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_85,78,,6
+group_3731,hypothetical protein,GCA_056475725.1,GCA_056475725.1;385_0_105,121,,6
+group_3420,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_219,47,,6
+group_3312,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_203,52,,6
+group_3020,hypothetical protein,GCF_900474825.1,GCF_900474825.1;1534_0_157,147,,6
+group_2445,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_207,75,,6
+group_2431,hypothetical protein,GCF_020826935.1,GCF_020826935.1;789_0_317,145,,6
+group_2057,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_213,201,,6
+group_1949,hypothetical protein,GCF_041901415.1,GCF_041901415.1;926_20_112,206,,6
+group_1605,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_7,90,,6
+group_1595,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_222,99,,6
+group_1559,hypothetical protein,GCA_041877935.1,GCA_041877935.1;1_30_8,68,,6
+group_1398,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_215,91,,6
+group_1247,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_11_5,146,,6
+group_1056,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_843,111,,6
+group_562,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_204,269,,6
+group_379,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_5_60,296,,6
+group_291,hypothetical protein,GCF_900995045.1,GCF_900995045.1;1842_7_83,175,,6
+group_5922,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_578,79,,5
+group_5911,hypothetical protein,GCF_035918575.1,GCF_035918575.1;835_0_314,125,,5
+group_5899,hypothetical protein,GCF_020826935.1,GCF_020826935.1;789_0_855,66,,5
+group_5882,hypothetical protein,GCF_020826955.1,GCF_020826955.1;790_0_312,183,,5
+group_5877,hypothetical protein,GCF_900984935.1,GCF_900984935.1;1708_0_90,210,,5
+group_5844,hypothetical protein,GCF_900982825.1,GCF_900982825.1;1596_1_281,197,,5
+group_5840,hypothetical protein,GCF_005165265.1,GCF_005165265.1;697_0_369,128,,5
+group_5814,hypothetical protein,GCF_001638845.2,GCF_001638845.2;605_0_1544,162,,5
+group_5777,hypothetical protein,GCF_035918415.1,GCF_035918415.1;827_0_1431,84,,5
+group_5776,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_8_46,63,,5
+group_5741,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_12_23,141,,5
+group_5705,hypothetical protein,GCF_000629725.1,GCF_000629725.1;442_1_112,83,,5
+group_5653,hypothetical protein,GCF_002250265.1,GCF_002250265.1;620_23_3,68,,5
+group_5399,hypothetical protein,GCF_005162405.1,GCF_005162405.1;681_0_1417,226,,5
+group_5372,hypothetical protein,GCF_900983545.1,GCF_900983545.1;1644_0_7,134,,5
+group_5371,hypothetical protein,GCF_900983545.1,GCF_900983545.1;1644_0_8,162,,5
+group_5370,hypothetical protein,GCF_900983545.1,GCF_900983545.1;1644_0_6,196,,5
+group_5352,hypothetical protein,GCF_900993705.1,GCF_900993705.1;1778_0_60,235,,5
+group_5351,hypothetical protein,GCF_900983015.1,GCF_900983015.1;1611_5_84,123,,5
+group_5241,hypothetical protein,GCF_900475085.1,GCF_900475085.1;1552_0_94,246,,5
+group_4946,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1489,159,,5
+group_4943,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1490,157,,5
+group_4890,FliH/SctL family protein;hypothetical protein,GCF_900982835.1,GCF_900982835.1;1597_4_2,199,,5
+group_4873,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_935,211,,5
+group_4843,hypothetical protein,GCF_009832845.1,GCF_009832845.1;720_0_387,290,,5
+group_4820,hypothetical protein,GCF_005165045.1,GCF_005165045.1;696_0_133,142,,5
+group_4817,hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_134,129,,5
+group_4814,hypothetical protein,GCF_005164305.1,GCF_005164305.1;692_0_756,91,,5
+group_4813,hypothetical protein,GCF_005164305.1,GCF_005164305.1;692_0_757,161,,5
+group_4779,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_308,68,,5
+group_4731,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_310,161,,5
+group_4698,glutathione S-transferase family protein;hypothetical protein,GCF_900983795.1,GCF_900983795.1;1651_0_134,202,,5
+group_4633,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_1440,45,,5
+group_4623,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_8_17,121,,5
+group_4607,virulence protein;hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_8_2,212,,5
+group_4602,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_8_5,81,,5
+group_4576,hypothetical protein;phage tail family protein,GCF_001638805.1,GCF_001638805.1;604_8_20,223,,5
+group_4490,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_927,95,,5
+group_4483,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_952,57,,5
+group_4468,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1480,60,,5
+group_4416,hypothetical protein,GCA_054330855.1,GCA_054330855.1;216_21_1,199,,5
+group_4382,hypothetical protein;phosphotransferase,GCA_042877345.1,GCA_042877345.1;101_7_21,265,,5
+group_4334,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_202,66,,5
+group_4330,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_196,176,,5
+group_4329,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_204,142,,5
+group_4326,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_195,167,,5
+group_4325,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_203,69,,5
+group_4324,hypothetical protein,GCA_042877105.1,GCA_042877105.1;92_1_197,57,,5
+group_4310,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_66,51,,5
+group_4279,hypothetical protein,GCA_042876645.1,GCA_042876645.1;72_0_393,197,,5
+group_4056,hypothetical protein,GCF_020826935.1,GCF_020826935.1;789_0_316,207,,5
+group_3789,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_1337,223,,5
+group_3477,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1313,148,,5
+group_3372,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_498,341,,5
+group_3342,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1526,51,,5
+group_3341,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1514,51,,5
+group_3181,hypothetical protein,GCF_005163385.1,GCF_005163385.1;687_0_972,56,,5
+group_3177,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_1349,142,,5
+group_3147,hypothetical protein,GCF_005164025.1,GCF_005164025.1;691_0_1016,57,,5
+group_2892,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_201,64,,5
+group_2585,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1513,72,,5
+group_2493,hypothetical protein,GCF_005163385.1,GCF_005163385.1;687_0_1001,74,,5
+group_2440,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_1525,180,,5
+group_2422,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_1_48,75,,5
+group_2362,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_208,185,,5
+group_2302,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_9_2,77,,5
+group_1606,hypothetical protein,GCF_002238295.1,GCF_002238295.1;618_0_1405,89,,5
+group_1453,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_7_502,90,,5
+group_783,hypothetical protein,GCF_020827015.1,GCF_020827015.1;793_0_1304,153,,5
+group_753,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_209,249,,5
+group_565,hypothetical protein,GCF_026781925.1,GCF_026781925.1;805_34_118,117,,5
+group_419,hypothetical protein,GCF_005163565.1,GCF_005163565.1;688_0_1102,104,,5
+group_265,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_548,268,,5
+group_260,hypothetical protein,GCA_042877245.1,GCA_042877245.1;96_2_226,107,,5
+group_232,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_204,108,,5
+group_5946,hypothetical protein,GCF_900989835.1,GCF_900989835.1;1746_2_86,150,,4
+group_5917,hypothetical protein,GCF_900995215.1,GCF_900995215.1;1853_0_283,223,,4
+group_5907,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_1467,130,,4
+group_5876,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_90,134,,4
+group_5818,hypothetical protein,GCF_005164705.1,GCF_005164705.1;694_0_320,177,,4
+group_5709,hypothetical protein,GCF_000630525.1,GCF_000630525.1;482_4_48,171,,4
+group_5684,hypothetical protein,GCA_056468425.1,GCA_056468425.1;251_33_0,81,,4
+group_5661,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_1641,104,,4
+group_5425,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_108,81,,4
+group_5424,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_107,91,,4
+group_5422,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_105,88,,4
+group_5421,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_104,262,,4
+group_5420,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_103,52,,4
+group_5419,hypothetical protein,GCA_042876825.1,GCA_042876825.1;79_2_102,77,,4
+group_5400,hypothetical protein,GCF_005162405.1,GCF_005162405.1;681_0_1418,150,,4
+group_5308,hypothetical protein,GCF_900983265.1,GCF_900983265.1;1626_0_86,155,,4
+group_5307,hypothetical protein,GCF_900983265.1,GCF_900983265.1;1626_0_84,169,,4
+group_5301,hypothetical protein,GCF_900982745.1,GCF_900982745.1;1592_6_0,208,,4
+group_5224,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_1694,205,,4
+group_5077,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_12_31,48,,4
+group_4894,hypothetical protein,GCF_020827115.1,GCF_020827115.1;798_0_1512,50,,4
+group_4861,hypothetical protein,GCF_014192005.1,GCF_014192005.1;730_0_132,139,,4
+group_4815,hypothetical protein,GCF_005164305.1,GCF_005164305.1;692_0_1600,206,,4
+group_4774,hypothetical protein,GCF_005163245.1,GCF_005163245.1;686_0_306,146,,4
+group_4766,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_1515,139,,4
+group_4711,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1591,106,,4
+group_4685,hypothetical protein,GCF_005160785.1,GCF_005160785.1;672_0_372,153,,4
+group_4630,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_217,126,,4
+group_4621,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_8_15,110,,4
+group_4600,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_8_8,69,,4
+group_4599,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_10,98,,4
+group_4595,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_9,93,,4
+group_4461,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_273,178,,4
+group_4412,hypothetical protein,GCA_042882885.1,GCA_042882885.1;148_0_254,72,,4
+group_4395,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_3_85,143,,4
+group_4378,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_3_95,126,,4
+group_4361,hypothetical protein,GCF_028215815.1,GCF_028215815.1;808_0_947,45,,4
+group_4360,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_82,57,,4
+group_4352,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_69,57,,4
+group_4232,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_44,163,,4
+group_3580,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_5_34,126,,4
+group_3366,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_1_194,136,,4
+group_3286,hypothetical protein,GCF_900474965.1,GCF_900474965.1;1546_0_1297,139,,4
+group_3076,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_1352,145,,4
+group_3011,hypothetical protein,GCF_005164025.1,GCF_005164025.1;691_0_1326,147,,4
+group_2935,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_13_68,48,,4
+group_2930,hypothetical protein,GCF_001638275.1,GCF_001638275.1;588_0_86,63,,4
+group_2917,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_1_195,154,,4
+group_2888,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_13_73,64,,4
+group_2819,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1316,159,,4
+group_2793,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_4_34,160,,4
+group_2672,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1618,166,,4
+group_2647,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1318,168,,4
+group_2260,hypothetical protein,GCF_900474965.1,GCF_900474965.1;1546_0_1298,190,,4
+group_2132,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1317,80,,4
+group_2085,hypothetical protein,GCF_054580905.1,GCF_054580905.1;1304_7_20,229,,4
+group_2055,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1593,201,,4
+group_2044,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_9_134,201,,4
+group_2025,hypothetical protein,GCF_900982765.1,GCF_900982765.1;1593_2_62,53,,4
+group_1915,hypothetical protein,GCF_005162865.1,GCF_005162865.1;684_0_1060,272,,4
+group_1627,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_74,75,,4
+group_1575,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_84,90,,4
+group_1515,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_78,152,,4
+group_1304,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_13_72,92,,4
+group_1092,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1185,78,,4
+group_1031,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_88,121,,4
+group_1018,hypothetical protein,GCF_004010855.1,GCF_004010855.1;636_0_1614,60,,4
+group_978,hypothetical protein,GCF_005162405.1,GCF_005162405.1;681_0_1234,60,,4
+group_737,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_588,56,,4
+group_736,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_589,74,,4
+group_651,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1195,61,,4
+group_607,hypothetical protein,GCA_042863655.1,GCA_042863655.1;8_15_93,62,,4
+group_582,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_233,101,,4
+group_519,hypothetical protein,GCF_035918495.1,GCF_035918495.1;831_0_899,102,,4
+group_287,hypothetical protein,GCF_900474645.1,GCF_900474645.1;1528_0_862,107,,4
+group_119,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_9_8,140,,4
+group_114,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1612,275,,4
+group_41,hypothetical protein,GCF_054576645.1,GCF_054576645.1;1102_5_35,112,,4
+group_5940,hypothetical protein,GCF_900990915.1,GCF_900990915.1;1749_1_267,148,,3
+group_5861,hypothetical protein,GCF_000631205.1,GCF_000631205.1;516_2_42,183,,3
+group_5810,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_4_100,99,,3
+group_5799,hypothetical protein;MORN repeat-containing protein,GCA_041901925.1,GCA_041901925.1;3_28_3,133,,3
+group_5742,hypothetical protein,GCF_020827075.1,GCF_020827075.1;796_0_134,126,,3
+group_5730,hypothetical protein,GCF_002236855.1,GCF_002236855.1;616_0_289,180,,3
+group_5728,hypothetical protein,GCF_001982785.1,GCF_001982785.1;612_21_4,40,,3
+group_5708,hypothetical protein,GCF_000630985.1,GCF_000630985.1;505_6_2,66,,3
+group_5686,hypothetical protein,GCF_000630225.1,GCF_000630225.1;467_0_113,118,,3
+group_5637,hypothetical protein,GCF_014218015.1,GCF_014218015.1;732_0_1237,85,,3
+group_5609,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_5_0,103,,3
+group_5340,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_190,396,,3
+group_5338,hypothetical protein,GCF_900983795.1,GCF_900983795.1;1651_5_33,103,,3
+group_5337,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_176,67,,3
+group_5332,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_179,56,,3
+group_5331,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_185,142,,3
+group_5329,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_175,91,,3
+group_5328,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_187,136,,3
+group_5326,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_183,57,,3
+group_5324,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_184,177,,3
+group_5322,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_177,63,,3
+group_5306,hypothetical protein,GCF_900983695.1,GCF_900983695.1;1650_9_20,153,,3
+group_5304,hypothetical protein,GCF_900983695.1,GCF_900983695.1;1650_9_19,150,,3
+group_5279,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_7,96,,3
+group_5275,hypothetical protein;polyprenyl synthetase family protein,GCF_900982695.1,GCF_900982695.1;1590_6_12,320,,3
+group_5270,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_11,329,,3
+group_5262,hypothetical protein,GCF_900982655.1,GCF_900982655.1;1588_6_63,143,,3
+group_5255,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_712,1367,,3
+group_5062,hypothetical protein,GCF_047370775.1,GCF_047370775.1;981_19_23,73,,3
+group_5060,hypothetical protein,GCF_047370775.1,GCF_047370775.1;981_19_21,98,,3
+group_5059,hypothetical protein,GCF_047370775.1,GCF_047370775.1;981_19_10,78,,3
+group_5013,hypothetical protein,GCF_054580205.1,GCF_054580205.1;1269_0_168,44,,3
+group_4947,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1662,265,,3
+group_4936,hypothetical protein,GCF_035918535.1,GCF_035918535.1;833_0_1356,224,,3
+group_4924,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_1039,106,,3
+group_4895,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_134,128,,3
+group_4886,hypothetical protein,GCF_020826995.1,GCF_020826995.1;792_0_134,123,,3
+group_4837,hypothetical protein,GCF_005222545.1,GCF_005222545.1;699_0_1262,151,,3
+group_4836,hypothetical protein,GCF_005222545.1,GCF_005222545.1;699_0_1257,203,,3
+group_4831,hypothetical protein,GCF_005222545.1,GCF_005222545.1;699_0_154,125,,3
+group_4830,hypothetical protein,GCF_005165265.1,GCF_005165265.1;697_0_368,166,,3
+group_4826,hypothetical protein,GCF_005165045.1,GCF_005165045.1;696_0_314,140,,3
+group_4825,hypothetical protein,GCF_005165045.1,GCF_005165045.1;696_0_313,159,,3
+group_4824,hypothetical protein,GCF_005165045.1,GCF_005165045.1;696_0_316,147,,3
+group_4821,hypothetical protein,GCF_039619335.1,GCF_039619335.1;847_0_1266,194,,3
+group_4809,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_refound_16837,83,,3
+group_4808,hypothetical protein,GCF_005164025.1,GCF_005164025.1;691_0_553,57,,3
+group_4784,hypothetical protein,GCF_900983945.1,GCF_900983945.1;1660_1_206,141,,3
+group_4772,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1503,321,,3
+group_4762,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1506,488,,3
+group_4754,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1659,92,,3
+group_4751,hypothetical protein,GCF_900984905.1,GCF_900984905.1;1707_8_9,167,,3
+group_4749,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1651,80,,3
+group_4748,hypothetical protein,GCF_041430535.1,GCF_041430535.1;861_0_1647,272,,3
+group_4740,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1495,48,,3
+group_4735,hypothetical protein,GCF_005162245.1,GCF_005162245.1;680_0_1496,253,,3
+group_4703,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_1702,212,,3
+group_4687,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_206,210,,3
+group_4596,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_13,172,,3
+group_4584,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_11,70,,3
+group_4583,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_12,197,,3
+group_4569,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_4_8,60,,3
+group_4550,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_927,77,,3
+group_4539,hypothetical protein,GCF_000743015.1,GCF_000743015.1;561_0_1266,200,,3
+group_4537,hypothetical protein,GCF_000630985.1,GCF_000630985.1;505_1_82,19,,3
+group_4466,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_0_404,88,,3
+group_4429,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_6_31,142,,3
+group_4428,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_5_88,150,,3
+group_4427,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_5_86,207,,3
+group_4426,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_5_84,135,,3
+group_4425,hypothetical protein,GCA_054331255.1,GCA_054331255.1;236_5_83,148,,3
+group_4414,hypothetical protein,GCA_042882945.1,GCA_042882945.1;149_4_17,943,,3
+group_4404,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_88,82,,3
+group_4402,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_90,139,,3
+group_4400,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_94,168,,3
+group_4399,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_93,99,,3
+group_4398,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_92,71,,3
+group_4397,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_86,460,,3
+group_4393,hypothetical protein,GCF_900983165.1,GCF_900983165.1;1621_0_285,102,,3
+group_4392,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_3_83,169,,3
+group_4347,peptide chain release factor 2;hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_73,58,,3
+group_4304,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_31,134,,3
+group_4233,hypothetical protein,GCA_042864325.1,GCA_042864325.1;27_11_45,190,,3
+group_4167,hypothetical protein,GCA_041878065.1,GCA_041878065.1;2_55_19,141,,3
+group_3857,hypothetical protein,GCF_054575605.1,GCF_054575605.1;1053_0_270,28,,3
+group_3798,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_754,95,,3
+group_3796,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_1_214,119,,3
+group_3682,hypothetical protein,GCF_900475865.1,GCF_900475865.1;1574_0_1563,312,,3
+group_3566,hypothetical protein,GCF_001023495.1,GCF_001023495.1;574_0_1050,43,,3
+group_3535,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_122,123,,3
+group_3502,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_1321,76,,3
+group_3496,hypothetical protein,GCF_054581185.1,GCF_054581185.1;1318_7_68,45,,3
+group_3432,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_1_217,131,,3
+group_3426,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_184,47,,3
+group_3385,hypothetical protein,GCF_900636485.1,GCF_900636485.1;1586_0_1339,27,,3
+group_3384,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_401,135,,3
+group_3212,hypothetical protein,GCF_001640945.2,GCF_001640945.2;608_0_400,141,,3
+group_3200,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_34_6,55,,3
+group_3077,hypothetical protein,GCF_020826935.1,GCF_020826935.1;789_0_361,145,,3
+group_3021,hypothetical protein,GCF_900475085.1,GCF_900475085.1;1552_0_1472,147,,3
+group_2941,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_1_216,152,,3
+group_2865,hypothetical protein,GCF_054575225.1,GCF_054575225.1;1034_1_81,65,,3
+group_2772,hypothetical protein,GCF_900982835.1,GCF_900982835.1;1597_4_7,161,,3
+group_2596,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_113,99,,3
+group_2562,hypothetical protein,GCF_054581185.1,GCF_054581185.1;1318_7_69,73,,3
+group_2528,hypothetical protein,GCF_020827015.1,GCF_020827015.1;793_0_1305,175,,3
+group_2344,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_25,77,,3
+group_2166,hypothetical protein,GCF_020826935.1,GCF_020826935.1;789_0_365,90,,3
+group_2149,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_22,80,,3
+group_2130,hypothetical protein;sigma-70 RNA polymerase sigma factor region 4 domain-containing protein,GCF_900475865.1,GCF_900475865.1;1574_0_1564,143,,3
+group_2089,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1315,199,,3
+group_1703,hypothetical protein,GCA_042864025.1,GCA_042864025.1;16_14_7,88,,3
+group_1631,hypothetical protein,GCF_000009385.1,GCF_000009385.1;417_0_596,44,,3
+group_1624,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_182,89,,3
+group_1482,hypothetical protein,GCF_900982965.1,GCF_900982965.1;1606_5_83,153,,3
+group_1474,hypothetical protein,GCF_054579845.1,GCF_054579845.1;1251_3_84,153,,3
+group_1075,hypothetical protein,GCA_042876485.1,GCA_042876485.1;65_0_123,94,,3
+group_1073,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_27,142,,3
+group_1041,hypothetical protein,GCF_004154125.1,GCF_004154125.1;654_0_1703,84,,3
+group_899,hypothetical protein,GCF_029637645.1,GCF_029637645.1;820_0_343,128,,3
+group_823,hypothetical protein,GCF_001937265.1,GCF_001937265.1;610_14_3,56,,3
+group_802,hypothetical protein,GCF_005161825.1,GCF_005161825.1;678_0_1289,123,,3
+group_687,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_76,250,,3
+group_534,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1314,102,,3
+group_437,hypothetical protein,GCF_900982995.1,GCF_900982995.1;1609_1_58,104,,3
+group_184,hypothetical protein,GCF_001638805.1,GCF_001638805.1;604_13_64,109,,3
+group_5952,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_2_106,205,,2
+group_5906,hypothetical protein,GCF_900475615.1,GCF_900475615.1;1568_0_299,131,,2
+group_5893,hypothetical protein,GCF_900993815.1,GCF_900993815.1;1785_0_87,147,,2
+group_5868,hypothetical protein,GCF_900982705.1,GCF_900982705.1;1591_1_313,127,,2
+group_5866,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_1016,76,,2
+group_5711,hypothetical protein,GCF_056673835.1,GCF_056673835.1;1524_0_1792,66,,2
+group_5706,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_4_95,56,,2
+group_5680,hypothetical protein,GCF_000630585.1,GCF_000630585.1;485_0_919,112,,2
+group_5667,hypothetical protein,GCF_019342905.1,GCF_019342905.1;777_0_1219,61,,2
+group_5665,hypothetical protein,GCF_041900875.1,GCF_041900875.1;909_63_60,192,,2
+group_5652,hypothetical protein,GCF_002250265.1,GCF_002250265.1;620_23_5,77,,2
+group_5643,hypothetical protein,GCF_014218015.1,GCF_014218015.1;732_0_1232,157,,2
+group_5636,hypothetical protein,GCF_014218015.1,GCF_014218015.1;732_0_1235,225,,2
+group_5490,hypothetical protein,GCF_900995825.1,GCF_900995825.1;1881_1_266,155,,2
+group_5435,hypothetical protein,GCF_900988965.1,GCF_900988965.1;1743_5_184,89,,2
+group_5427,hypothetical protein,GCF_900985595.1,GCF_900985595.1;1731_1_0,143,,2
+group_5398,hypothetical protein,GCF_900984405.1,GCF_900984405.1;1685_10_12,60,,2
+group_5396,hypothetical protein,GCF_900984405.1,GCF_900984405.1;1685_10_2,79,,2
+group_5392,hypothetical protein,GCF_900984205.1,GCF_900984205.1;1674_5_85,151,,2
+group_5380,hypothetical protein,GCF_900983815.1,GCF_900983815.1;1652_7_16,722,,2
+group_5379,hypothetical protein,GCF_900983815.1,GCF_900983815.1;1652_7_17,104,,2
+group_5368,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_0_217,73,,2
+group_5363,hypothetical protein,GCF_900983115.1,GCF_900983115.1;1619_0_200,55,,2
+group_5348,hypothetical protein,GCF_900982975.1,GCF_900982975.1;1607_0_315,193,,2
+group_5344,hypothetical protein,GCF_900982935.1,GCF_900982935.1;1605_0_83,186,,2
+group_5302,hypothetical protein,GCF_900983265.1,GCF_900983265.1;1626_0_85,238,,2
+group_5294,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_72,453,,2
+group_5285,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_66,509,,2
+group_5268,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_16,183,,2
+group_5252,hypothetical protein,GCF_900475705.1,GCF_900475705.1;1570_0_310,215,,2
+group_5247,hypothetical protein,GCF_900475525.1,GCF_900475525.1;1566_0_1109,216,,2
+group_5238,hypothetical protein,GCF_900474965.1,GCF_900474965.1;1546_0_1293,179,,2
+group_5209,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1420,125,,2
+group_5100,hypothetical protein,GCF_054579845.1,GCF_054579845.1;1251_2_153,255,,2
+group_5011,hypothetical protein,GCF_900994505.1,GCF_900994505.1;1817_1_218,354,,2
+group_4948,hypothetical protein,GCF_041430865.1,GCF_041430865.1;865_0_1500,51,,2
+group_4945,hypothetical protein,GCF_900983815.1,GCF_900983815.1;1652_3_172,131,,2
+group_4944,hypothetical protein,GCF_900983815.1,GCF_900983815.1;1652_3_173,171,,2
+group_4922,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_936,77,,2
+group_4921,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_934,68,,2
+group_4919,hypothetical protein,GCF_035918435.1,GCF_035918435.1;828_0_927,64,,2
+group_4912,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_2_105,134,,2
+group_4910,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_24,212,,2
+group_4891,hypothetical protein,GCF_020827055.1,GCF_020827055.1;795_0_389,156,,2
+group_4866,hypothetical protein,GCF_016126835.1,GCF_016126835.1;738_0_600,56,,2
+group_4848,hypothetical protein,GCF_009846875.1,GCF_009846875.1;721_1_68,502,,2
+group_4845,hypothetical protein,GCF_009832845.1,GCF_009832845.1;720_0_853,147,,2
+group_4838,hypothetical protein,GCF_005222545.1,GCF_005222545.1;699_0_1263,161,,2
+group_4785,hypothetical protein,GCF_005164885.1,GCF_005164885.1;695_0_333,163,,2
+group_4783,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_1404,158,,2
+group_4782,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_892,327,,2
+group_4693,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_600,104,,2
+group_4657,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1617,76,,2
+group_4652,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1619,136,,2
+group_4651,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1618,112,,2
+group_4640,hypothetical protein,GCF_002844355.1,GCF_002844355.1;625_0_306,190,,2
+group_4638,hypothetical protein,GCF_002236855.1,GCF_002236855.1;616_0_1509,137,,2
+group_4562,hypothetical protein,GCF_001638585.1,GCF_001638585.1;597_4_82,144,,2
+group_4411,hypothetical protein,GCF_900982965.1,GCF_900982965.1;1606_1_190,62,,2
+group_4368,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_97,108,,2
+group_4363,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_88,64,,2
+group_4359,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_75,64,,2
+group_4355,hypothetical protein;nuclear transport factor 2 family protein,GCF_044361195.1,GCF_044361195.1;938_0_895,55,,2
+group_4353,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_71,69,,2
+group_4350,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_72,89,,2
+group_4346,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_3,75,,2
+group_4340,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_45,281,,2
+group_4338,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_46,452,,2
+group_4307,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_2_150,88,,2
+group_4276,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_1,90,,2
+group_4266,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_22,109,,2
+group_4263,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_36,82,,2
+group_4248,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_28,121,,2
+group_4246,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_32,118,,2
+group_4240,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_24,96,,2
+group_4235,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_0_23,120,,2
+group_4229,hypothetical protein,GCF_041901415.1,GCF_041901415.1;926_38_45,220,,2
+group_3927,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_874,219,,2
+group_3890,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_6_23,118,,2
+group_3665,hypothetical protein,GCF_004124075.1,GCF_004124075.1;641_0_1114,123,,2
+group_3628,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_0_212,317,,2
+group_3623,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_901,317,,2
+group_3613,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_920,125,,2
+group_3608,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1613,42,,2
+group_3590,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_90,99,,2
+group_3572,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1160,43,,2
+group_3504,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_60,44,,2
+group_3448,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_115,46,,2
+group_3436,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_884,131,,2
+group_3414,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_98,47,,2
+group_3406,hypothetical protein,GCF_900983025.1,GCF_900983025.1;1612_0_199,48,,2
+group_3390,hypothetical protein,GCF_900983155.1,GCF_900983155.1;1620_2_148,49,,2
+group_3334,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_92,51,,2
+group_3313,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_564,52,,2
+group_3283,hypothetical protein,GCF_054577365.1,GCF_054577365.1;1133_2_6,53,,2
+group_3254,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1578,54,,2
+group_3246,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_118,54,,2
+group_3240,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_24,54,,2
+group_3179,hypothetical protein,GCF_005161465.1,GCF_005161465.1;676_0_1156,56,,2
+group_3127,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_44,363,,2
+group_3106,hypothetical protein,GCA_042877285.1,GCA_042877285.1;98_6_51,144,,2
+group_3080,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_45,59,,2
+group_3079,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_924,59,,2
+group_3072,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_921,145,,2
+group_3060,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_92,60,,2
+group_3049,hypothetical protein,GCF_005160925.1,GCF_005160925.1;673_0_570,60,,2
+group_2995,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_42,61,,2
+group_2985,hypothetical protein,GCA_042878385.1,GCA_042878385.1;134_13_25,61,,2
+group_2967,hypothetical protein,GCF_900982655.1,GCF_900982655.1;1588_2_192,62,,2
+group_2938,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_40,63,,2
+group_2925,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_875,388,,2
+group_2921,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_894,100,,2
+group_2901,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_1254,67,,2
+group_2884,hypothetical protein,GCF_005161825.1,GCF_005161825.1;678_0_1288,156,,2
+group_2883,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1579,156,,2
+group_2876,hypothetical protein;HeH/LEM domain-containing protein,GCF_900474765.1,GCF_900474765.1;1530_0_1022,97,,2
+group_2827,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1189,497,,2
+group_2784,hypothetical protein,GCF_001267805.1,GCF_001267805.1;578_0_1531,160,,2
+group_2769,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_0_41,67,,2
+group_2737,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_557,68,,2
+group_2735,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1593,68,,2
+group_2728,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_917,163,,2
+group_2695,hypothetical protein,GCF_056673565.1,GCF_056673565.1;1497_0_457,69,,2
+group_2661,hypothetical protein,GCA_042877465.1,GCA_042877465.1;106_0_61,167,,2
+group_2628,hypothetical protein,GCF_000756485.1,GCF_000756485.1;562_0_99,95,,2
+group_2594,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_563,72,,2
+group_2388,hypothetical protein,GCF_900982655.1,GCF_900982655.1;1588_2_194,184,,2
+group_2370,reverse transcriptase domain-containing protein;hypothetical protein;group II intron reverse transcriptase/maturase,GCF_900990215.1,GCF_900990215.1;1747_0_39,636,,2
+group_2337,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_91,186,,2
+group_2315,hypothetical protein,GCA_042877345.1,GCA_042877345.1;101_1_197,187,,2
+group_2219,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_79,192,,2
+group_2204,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_108,193,,2
+group_2136,hypothetical protein,GCA_042876925.1,GCA_042876925.1;84_1_215,220,,2
+group_2134,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_912,80,,2
+group_2127,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_102,197,,2
+group_2091,hypothetical protein,GCF_900475865.1,GCF_900475865.1;1574_0_1567,199,,2
+group_2069,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_83,200,,2
+group_2048,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_99,201,,2
+group_2047,hypothetical protein,GCF_900982655.1,GCF_900982655.1;1588_4_39,82,,2
+group_1847,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1595,86,,2
+group_1803,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_898,215,,2
+group_1578,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_204,110,,2
+group_1432,hypothetical protein,GCF_035918415.1,GCF_035918415.1;827_0_606,42,,2
+group_1297,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_1255,89,,2
+group_1129,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_1253,82,,2
+group_1126,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_1256,59,,2
+group_1026,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1670,173,,2
+group_1010,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1599,95,,2
+group_987,hypothetical protein,GCF_004154125.1,GCF_004154125.1;654_0_520,205,,2
+group_787,hypothetical protein,GCF_900475565.1,GCF_900475565.1;1567_0_314,208,,2
+group_764,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_106,98,,2
+group_746,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1582,94,,2
+group_696,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_92,99,,2
+group_688,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_94,99,,2
+group_467,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_77,89,,2
+group_457,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_0_1634,134,,2
+group_456,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_85,260,,2
+group_432,hypothetical protein,GCF_900475865.1,GCF_900475865.1;1574_0_1565,104,,2
+group_412,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_97,261,,2
+group_368,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_244,105,,2
+group_224,hypothetical protein,GCA_054330475.1,GCA_054330475.1;198_5_101,108,,2
+group_5774,hypothetical protein,GCF_005162565.1,GCF_005162565.1;682_0_832,92,,1
+group_5731,hypothetical protein,GCF_056673615.1,GCF_056673615.1;1502_0_1931,63,,1
+group_5693,hypothetical protein,GCF_029637645.1,GCF_029637645.1;820_0_358,67,,1
+group_5681,hypothetical protein,GCF_900984685.1,GCF_900984685.1;1700_5_52,226,,1
+group_5657,hypothetical protein,GCF_056673775.1,GCF_056673775.1;1518_0_442,132,,1
+group_5492,hypothetical protein,GCF_900995905.1,GCF_900995905.1;1888_5_84,174,,1
+group_5481,hypothetical protein,GCF_900994245.1,GCF_900994245.1;1808_0_468,118,,1
+group_5480,hypothetical protein,GCF_900994015.1,GCF_900994015.1;1796_1_226,225,,1
+group_5478,hypothetical protein,GCF_900993445.1,GCF_900993445.1;1767_6_1,193,,1
+group_5475,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_111,138,,1
+group_5474,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_106,56,,1
+group_5473,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_107,166,,1
+group_5472,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_141,196,,1
+group_5471,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_112,146,,1
+group_5470,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_114,66,,1
+group_5469,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_109,66,,1
+group_5468,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_118,112,,1
+group_5465,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_131,83,,1
+group_5463,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_115,337,,1
+group_5461,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_119,115,,1
+group_5459,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_117,91,,1
+group_5458,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_143,90,,1
+group_5457,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_144,102,,1
+group_5454,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_121,157,,1
+group_5452,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_113,75,,1
+group_5451,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_137,216,,1
+group_5449,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_133,160,,1
+group_5447,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_123,86,,1
+group_5443,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_139,85,,1
+group_5442,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_116,277,,1
+group_5441,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_110,62,,1
+group_5438,hypothetical protein,GCF_900991055.1,GCF_900991055.1;1758_2_128,360,,1
+group_5437,hypothetical protein,GCF_900989835.1,GCF_900989835.1;1746_2_85,176,,1
+group_5434,hypothetical protein,GCF_900988965.1,GCF_900988965.1;1743_0_191,128,,1
+group_5429,hypothetical protein,GCF_900985595.1,GCF_900985595.1;1731_5_64,129,,1
+group_5426,hypothetical protein,GCF_900985595.1,GCF_900985595.1;1731_0_38,57,,1
+group_5417,hypothetical protein,GCF_900985175.1,GCF_900985175.1;1719_0_771,209,,1
+group_5416,hypothetical protein,GCF_900985175.1,GCF_900985175.1;1719_0_772,144,,1
+group_5415,hypothetical protein,GCF_900985175.1,GCF_900985175.1;1719_0_773,195,,1
+group_5414,hypothetical protein,GCF_900985145.1,GCF_900985145.1;1717_0_268,69,,1
+group_5413,hypothetical protein,GCF_900985145.1,GCF_900985145.1;1717_0_120,48,,1
+group_5409,hypothetical protein,GCF_900985055.1,GCF_900985055.1;1713_1_98,117,,1
+group_5407,hypothetical protein,GCF_900985055.1,GCF_900985055.1;1713_1_99,112,,1
+group_5406,hypothetical protein,GCF_900985055.1,GCF_900985055.1;1713_1_72,199,,1
+group_5401,hypothetical protein,GCF_900984495.1,GCF_900984495.1;1688_4_102,154,,1
+group_5395,hypothetical protein,GCF_900984405.1,GCF_900984405.1;1685_0_716,136,,1
+group_5394,hypothetical protein,GCF_900984405.1,GCF_900984405.1;1685_0_717,94,,1
+group_5393,hypothetical protein,GCF_900984225.1,GCF_900984225.1;1675_0_676,189,,1
+group_5381,hypothetical protein,GCF_900983835.1,GCF_900983835.1;1653_0_357,265,,1
+group_5377,hypothetical protein,GCF_900983795.1,GCF_900983795.1;1651_0_11,211,,1
+group_5376,hypothetical protein,GCF_900983635.1,GCF_900983635.1;1647_7_2,155,,1
+group_5375,hypothetical protein,GCF_900983635.1,GCF_900983635.1;1647_5_22,142,,1
+group_5369,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_3_84,125,,1
+group_5365,hypothetical protein,GCF_900983255.1,GCF_900983255.1;1625_0_16,76,,1
+group_5364,hypothetical protein,GCF_900983165.1,GCF_900983165.1;1621_0_280,93,,1
+group_5360,hypothetical protein,GCF_900983085.1,GCF_900983085.1;1616_0_84,151,,1
+group_5359,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_4_4,192,,1
+group_5357,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_0_192,184,,1
+group_5350,hypothetical protein,GCF_900983005.1,GCF_900983005.1;1610_3_98,162,,1
+group_5347,hypothetical protein,GCF_900982965.1,GCF_900982965.1;1606_4_62,126,,1
+group_5341,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_230,194,,1
+group_5333,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_2_178,88,,1
+group_5321,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_1_318,129,,1
+group_5320,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_1_96,212,,1
+group_5319,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_1_98,220,,1
+group_5318,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_1_97,65,,1
+group_5317,hypothetical protein,GCF_900982885.1,GCF_900982885.1;1601_1_95,115,,1
+group_5305,hypothetical protein,GCF_900994625.1,GCF_900994625.1;1825_0_300,216,,1
+group_5303,hypothetical protein,GCF_900983695.1,GCF_900983695.1;1650_9_18,203,,1
+group_5258,hypothetical protein,GCF_900475875.1,GCF_900475875.1;1575_0_131,128,,1
+group_5256,hypothetical protein,GCF_900475795.1,GCF_900475795.1;1573_0_814,269,,1
+group_5245,hypothetical protein,GCF_900475175.1,GCF_900475175.1;1558_0_982,84,,1
+group_5244,hypothetical protein,GCF_900475175.1,GCF_900475175.1;1558_0_978,113,,1
+group_5240,hypothetical protein,GCF_900475075.1,GCF_900475075.1;1551_0_1691,29,,1
+group_5236,hypothetical protein,GCF_900474925.1,GCF_900474925.1;1542_0_1381,255,,1
+group_5232,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_1451,110,,1
+group_5227,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_1450,64,,1
+group_5226,hypothetical protein,GCF_900474915.1,GCF_900474915.1;1541_0_1453,93,,1
+group_5218,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_895,109,,1
+group_5216,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_894,155,,1
+group_5214,hypothetical protein,GCF_900474855.1,GCF_900474855.1;1537_0_897,63,,1
+group_5208,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1419,150,,1
+group_5207,hypothetical protein,GCF_900989835.1,GCF_900989835.1;1746_2_89,152,,1
+group_5206,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1418,168,,1
+group_5196,hypothetical protein,GCF_056673835.1,GCF_056673835.1;1524_0_1777,105,,1
+group_5182,hypothetical protein,GCF_056673775.1,GCF_056673775.1;1518_0_445,80,,1
+group_5166,hypothetical protein,GCF_055362065.1,GCF_055362065.1;1415_0_1594,83,,1
+group_5165,hypothetical protein,GCF_055362065.1,GCF_055362065.1;1415_0_1600,63,,1
+group_5163,hypothetical protein,GCF_055361965.1,GCF_055361965.1;1410_0_1021,85,,1
+group_5162,hypothetical protein,GCF_055361965.1,GCF_055361965.1;1410_0_1016,85,,1
+group_5161,hypothetical protein,GCF_055361965.1,GCF_055361965.1;1410_0_1027,68,,1
+group_5150,hypothetical protein,GCF_055361965.1,GCF_055361965.1;1410_0_1008,1224,,1
+group_5136,hypothetical protein,GCF_055361965.1,GCF_055361965.1;1410_0_1001,55,,1
+group_5129,hypothetical protein,GCF_055361765.1,GCF_055361765.1;1400_0_1697,48,,1
+group_5104,hypothetical protein,GCF_054581445.1,GCF_054581445.1;1331_5_35,171,,1
+group_5099,hypothetical protein,GCF_054579845.1,GCF_054579845.1;1251_2_29,62,,1
+group_5096,hypothetical protein,GCF_054579845.1,GCF_054579845.1;1251_2_26,202,,1
+group_5076,hypothetical protein,GCF_054576365.1,GCF_054576365.1;1091_0_622,125,,1
+group_5074,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_148,98,,1
+group_5073,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_149,109,,1
+group_5071,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_147,284,,1
+group_5070,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_150,42,,1
+group_5069,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_146,45,,1
+group_5039,hypothetical protein,GCF_045345455.1,GCF_045345455.1;951_0_319,210,,1
+group_4996,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1172,52,,1
+group_4995,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1157,101,,1
+group_4994,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1165,119,,1
+group_4993,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1195,85,,1
+group_4988,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1154,61,,1
+group_4987,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1202,178,,1
+group_4986,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1184,60,,1
+group_4985,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1176,60,,1
+group_4980,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1194,40,,1
+group_4979,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1187,110,,1
+group_4976,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1171,66,,1
+group_4974,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1193,59,,1
+group_4969,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1189,215,,1
+group_4965,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1196,89,,1
+group_4963,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1190,105,,1
+group_4962,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1182,105,,1
+group_4961,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1175,76,,1
+group_4959,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1197,124,,1
+group_4958,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1183,81,,1
+group_4954,hypothetical protein,GCF_041430945.1,GCF_041430945.1;873_0_1170,136,,1
+group_4934,hypothetical protein,GCF_035918535.1,GCF_035918535.1;833_0_168,45,,1
+group_4933,hypothetical protein,GCF_035918495.1,GCF_035918495.1;831_0_912,121,,1
+group_4930,hypothetical protein,GCF_035918495.1,GCF_035918495.1;831_0_913,304,,1
+group_4929,hypothetical protein,GCF_035918495.1,GCF_035918495.1;831_0_914,48,,1
+group_4928,hypothetical protein,GCF_035918455.1,GCF_035918455.1;829_0_352,201,,1
+group_4916,hypothetical protein,GCF_034436135.1,GCF_034436135.1;826_0_1332,132,,1
+group_4909,hypothetical protein,GCF_029637645.1,GCF_029637645.1;820_0_347,87,,1
+group_4900,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_376,166,,1
+group_4899,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_377,152,,1
+group_4898,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_378,222,,1
+group_4887,hypothetical protein,GCF_020827015.1,GCF_020827015.1;793_0_70,63,,1
+group_4878,hypothetical protein,GCF_020826915.1,GCF_020826915.1;788_0_954,476,,1
+group_4875,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_1020,53,,1
+group_4859,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_1356,61,,1
+group_4858,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_879,48,,1
+group_4857,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_881,50,,1
+group_4856,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_886,46,,1
+group_4851,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_885,79,,1
+group_4842,hypothetical protein,GCF_900988965.1,GCF_900988965.1;1743_7_46,163,,1
+group_4839,hypothetical protein,GCF_005472475.1,GCF_005472475.1;707_1_39,219,,1
+group_4822,hypothetical protein,GCF_900990285.1,GCF_900990285.1;1748_0_84,159,,1
+group_4800,hypothetical protein,GCF_900990215.1,GCF_900990215.1;1747_3_87,185,,1
+group_4799,hypothetical protein,GCF_900983945.1,GCF_900983945.1;1660_1_209,128,,1
+group_4798,hypothetical protein,GCF_005164885.1,GCF_005164885.1;695_0_335,220,,1
+group_4797,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_1403,162,,1
+group_4796,hypothetical protein,GCF_900990215.1,GCF_900990215.1;1747_3_86,140,,1
+group_4795,hypothetical protein,GCF_900983945.1,GCF_900983945.1;1660_1_210,158,,1
+group_4793,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_1402,186,,1
+group_4791,hypothetical protein,GCF_900983945.1,GCF_900983945.1;1660_1_208,215,,1
+group_4790,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_1401,202,,1
+group_4789,hypothetical protein,GCF_900474745.1,GCF_900474745.1;1529_0_1339,169,,1
+group_4787,hypothetical protein,GCF_900983945.1,GCF_900983945.1;1660_1_211,155,,1
+group_4786,hypothetical protein,GCF_005164885.1,GCF_005164885.1;695_0_332,158,,1
+group_4781,hypothetical protein,GCF_005163865.1,GCF_005163865.1;690_0_317,111,,1
+group_4777,hypothetical protein,GCF_005163385.1,GCF_005163385.1;687_0_306,176,,1
+group_4720,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_74,96,,1
+group_4719,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_81,115,,1
+group_4715,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_78,119,,1
+group_4712,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_79,112,,1
+group_4707,hypothetical protein,GCF_005161325.1,GCF_005161325.1;675_0_1348,154,,1
+group_4681,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_0_741,69,,1
+group_4679,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_0_305,172,,1
+group_4678,hypothetical protein,GCF_005160445.1,GCF_005160445.1;670_0_306,138,,1
+group_4677,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1598,291,,1
+group_4675,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1595,156,,1
+group_4674,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1599,209,,1
+group_4673,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1601,76,,1
+group_4672,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1597,144,,1
+group_4669,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1602,92,,1
+group_4666,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1603,101,,1
+group_4665,hypothetical protein,GCF_004154065.1,GCF_004154065.1;651_0_1593,95,,1
+group_4663,hypothetical protein,GCF_004154025.1,GCF_004154025.1;649_0_540,48,,1
+group_4650,hypothetical protein,GCF_004124115.1,GCF_004124115.1;642_0_1088,62,,1
+group_4627,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_788,174,,1
+group_4622,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_782,60,,1
+group_4620,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_16,54,,1
+group_4618,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_11,60,,1
+group_4610,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_785,71,,1
+group_4603,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_19,110,,1
+group_4593,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_786,109,,1
+group_4590,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_787,65,,1
+group_4580,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_15,155,,1
+group_4575,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_784,98,,1
+group_4551,hypothetical protein,GCF_001535565.1,GCF_001535565.1;580_0_677,54,,1
+group_4525,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_622,81,,1
+group_4522,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_620,122,,1
+group_4521,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_616,56,,1
+group_4519,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_625,110,,1
+group_4518,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_606,95,,1
+group_4504,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_610,44,,1
+group_4501,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_602,212,,1
+group_4498,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_598,183,,1
+group_4484,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_608,122,,1
+group_4477,hypothetical protein,GCF_000630025.1,GCF_000630025.1;457_0_581,57,,1
+group_4469,hypothetical protein,GCF_000146715.1,GCF_000146715.1;426_1_29,59,,1
+group_4449,hypothetical protein,GCF_000018125.1,GCF_000018125.1;425_0_602,79,,1
+group_4439,hypothetical protein,GCF_000007285.1,GCF_000007285.1;415_0_836,103,,1
+group_4433,hypothetical protein,GCA_056470225.1,GCA_056470225.1;293_1_110,79,,1
+group_4422,hypothetical protein,GCF_005163085.1,GCF_005163085.1;685_0_315,156,,1
+group_4421,hypothetical protein,GCF_005163085.1,GCF_005163085.1;685_0_316,198,,1
+group_4394,hypothetical protein,GCF_900985135.1,GCF_900985135.1;1716_3_84,191,,1
+group_4357,hypothetical protein,GCF_900475525.1,GCF_900475525.1;1566_0_1131,54,,1
+group_4345,hypothetical protein,GCF_900475525.1,GCF_900475525.1;1566_0_1133,79,,1
+group_4342,hypothetical protein,GCF_054581485.1,GCF_054581485.1;1333_0_151,305,,1
+group_4339,hypothetical protein,GCF_054581485.1,GCF_054581485.1;1333_0_150,496,,1
+group_4337,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_4_83,15,,1
+group_4308,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_34,48,,1
+group_4303,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_44,99,,1
+group_4296,hypothetical protein,GCA_042882765.1,GCA_042882765.1;144_5_13,515,,1
+group_4295,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_29,515,,1
+group_4294,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_38,246,,1
+group_4293,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_35,67,,1
+group_4288,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_40,87,,1
+group_4283,hypothetical protein,GCA_042876945.1,GCA_042876945.1;85_3_4,528,,1
+group_4277,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_6,42,,1
+group_4231,hypothetical protein,GCF_900982805.1,GCF_900982805.1;1595_3_101,144,,1
+group_4230,hypothetical protein,GCF_900982805.1,GCF_900982805.1;1595_3_100,152,,1
+group_4140,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1183,45,,1
+group_4139,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_1181,45,,1
+group_4130,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_9_25,134,,1
+group_4107,hypothetical protein,GCA_054330915.1,GCA_054330915.1;219_9_21,65,,1
+group_4069,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_0_1625,113,,1
+group_4041,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_951,286,,1
+group_3974,hypothetical protein,GCF_054579765.1,GCF_054579765.1;1247_9_31,116,,1
+group_3901,hypothetical protein,GCF_900988965.1,GCF_900988965.1;1743_5_169,65,,1
+group_3870,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_209,118,,1
+group_3799,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_65,119,,1
+group_3684,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_948,123,,1
+group_3681,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_961,312,,1
+group_3680,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_958,312,,1
+group_3646,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_196,124,,1
+group_3635,hypothetical protein,GCF_000631925.1,GCF_000631925.1;552_0_980,124,,1
+group_3525,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1008,40,,1
+group_3523,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1007,107,,1
+group_3517,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1004,200,,1
+group_3513,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1002,73,,1
+group_3510,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1001,219,,1
+group_3468,hypothetical protein,GCA_011290585.1,GCA_011290585.1;0_0_208,128,,1
+group_3464,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_0_124,46,,1
+group_3457,hypothetical protein,GCF_035918515.1,GCF_035918515.1;832_0_148,46,,1
+group_3449,hypothetical protein,GCA_056475485.1,GCA_056475485.1;377_9_67,46,,1
+group_3405,hypothetical protein,GCF_054577745.1,GCF_054577745.1;1147_2_60,48,,1
+group_3378,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_0_125,136,,1
+group_3367,hypothetical protein,GCF_005472475.1,GCF_005472475.1;707_1_56,50,,1
+group_3358,hypothetical protein,GCF_900994105.1,GCF_900994105.1;1801_0_65,51,,1
+group_3317,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_1_9,403,,1
+group_3290,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_198,53,,1
+group_3279,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_188,53,,1
+group_3277,hypothetical protein,GCF_011290565.1,GCF_011290565.1;725_0_890,53,,1
+group_3258,hypothetical protein,GCF_900982965.1,GCF_900982965.1;1606_5_85,140,,1
+group_3253,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_902,140,,1
+group_3221,hypothetical protein,GCF_054577745.1,GCF_054577745.1;1147_11_14,55,,1
+group_3205,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_248,55,,1
+group_3188,hypothetical protein,GCF_054577745.1,GCF_054577745.1;1147_11_29,56,,1
+group_3157,hypothetical protein,GCF_900982695.1,GCF_900982695.1;1590_5_82,57,,1
+group_3154,hypothetical protein,GCF_054579765.1,GCF_054579765.1;1247_9_7,57,,1
+group_3135,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_66,57,,1
+group_3114,hypothetical protein,GCF_020827035.1,GCF_020827035.1;794_0_1092,58,,1
+group_3082,hypothetical protein,GCF_054577765.1,GCF_054577765.1;1148_0_127,145,,1
+group_3078,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_347,145,,1
+group_3053,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_371,60,,1
+group_2996,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_369,61,,1
+group_2989,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_5_41,149,,1
+group_2968,hypothetical protein,GCF_035918515.1,GCF_035918515.1;832_0_1341,150,,1
+group_2965,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_153,62,,1
+group_2958,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_209,250,,1
+group_2948,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_979,100,,1
+group_2940,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_44,63,,1
+group_2907,hypothetical protein,GCF_900474455.1,GCF_900474455.1;1527_0_76,64,,1
+group_2902,hypothetical protein,GCF_054575085.1,GCF_054575085.1;1027_8_143,64,,1
+group_2867,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_950,65,,1
+group_2861,hypothetical protein,GCF_020827075.1,GCF_020827075.1;796_0_1376,276,,1
+group_2859,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_1_128,158,,1
+group_2835,hypothetical protein,GCF_900985055.1,GCF_900985055.1;1713_1_82,159,,1
+group_2828,hypothetical protein,GCF_900993815.1,GCF_900993815.1;1785_0_84,101,,1
+group_2822,hypothetical protein,GCF_041071735.1,GCF_041071735.1;849_0_1240,124,,1
+group_2818,hypothetical protein,GCF_041071735.1,GCF_041071735.1;849_0_1238,57,,1
+group_2789,hypothetical protein,GCF_041071735.1,GCF_041071735.1;849_0_1178,124,,1
+group_2783,hypothetical protein,GCF_041071735.1,GCF_041071735.1;849_0_1176,57,,1
+group_2774,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_883,67,,1
+group_2764,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_363,161,,1
+group_2754,hypothetical protein,GCF_900983205.1,GCF_900983205.1;1622_4_46,162,,1
+group_2750,hypothetical protein,GCF_900983005.1,GCF_900983005.1;1610_4_98,162,,1
+group_2731,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_247,403,,1
+group_2721,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_959,404,,1
+group_2720,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_11,68,,1
+group_2717,hypothetical protein,GCA_042877245.1,GCA_042877245.1;96_2_212,163,,1
+group_2696,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_975,69,,1
+group_2634,hypothetical protein,GCF_054576905.1,GCF_054576905.1;1111_4_145,71,,1
+group_2626,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1583,71,,1
+group_2601,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_359,72,,1
+group_2592,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_0_1628,72,,1
+group_2587,hypothetical protein,GCA_042877265.1,GCA_042877265.1;97_0_245,418,,1
+group_2584,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_351,172,,1
+group_2561,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_197,174,,1
+group_2556,hypothetical protein,GCF_041900815.1,GCF_041900815.1;908_17_41,73,,1
+group_2509,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_974,74,,1
+group_2503,hypothetical protein,GCF_054578885.1,GCF_054578885.1;1204_4_24,74,,1
+group_2498,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_362,74,,1
+group_2497,hypothetical protein,GCF_017638465.1,GCF_017638465.1;743_0_1013,74,,1
+group_2466,hypothetical protein,GCF_035918515.1,GCF_035918515.1;832_0_1339,134,,1
+group_2465,hypothetical protein,GCF_035918515.1,GCF_035918515.1;832_0_1338,199,,1
+group_2464,hypothetical protein,GCF_035918515.1,GCF_035918515.1;832_0_1337,146,,1
+group_2459,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_195,179,,1
+group_2451,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_888,75,,1
+group_2450,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_886,75,,1
+group_2428,hypothetical protein,GCF_900984805.1,GCF_900984805.1;1704_1_208,181,,1
+group_2426,hypothetical protein,GCF_900982965.1,GCF_900982965.1;1606_5_84,181,,1
+group_2420,hypothetical protein,GCF_005164025.1,GCF_005164025.1;691_0_1325,181,,1
+group_2413,hypothetical protein,GCF_900985055.1,GCF_900985055.1;1713_15_19,182,,1
+group_2342,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_1_126,186,,1
+group_2326,hypothetical protein,GCF_054578905.1,GCF_054578905.1;1205_0_27,187,,1
+group_2303,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_360,188,,1
+group_2281,hypothetical protein,GCF_055361905.1,GCF_055361905.1;1407_0_888,112,,1
+group_2278,hypothetical protein,GCF_055361905.1,GCF_055361905.1;1407_0_885,185,,1
+group_2276,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_945,78,,1
+group_2268,hypothetical protein,GCA_054326475.1,GCA_054326475.1;167_1_75,189,,1
+group_2236,hypothetical protein,GCF_900475525.1,GCF_900475525.1;1566_0_1123,89,,1
+group_2189,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1010,194,,1
+group_2095,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_1_131,81,,1
+group_2094,hypothetical protein,GCF_900983005.1,GCF_900983005.1;1610_5_9,81,,1
+group_2090,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_344,199,,1
+group_2083,hypothetical protein,GCF_900982825.1,GCF_900982825.1;1596_1_276,200,,1
+group_2082,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_977,200,,1
+group_2074,hypothetical protein,GCF_004154045.1,GCF_004154045.1;650_0_1630,200,,1
+group_2059,hypothetical protein,GCF_050823505.1,GCF_050823505.1;982_0_1646,201,,1
+group_2052,hypothetical protein,GCF_004153985.1,GCF_004153985.1;647_0_1585,201,,1
+group_1988,hypothetical protein,GCF_041877945.1,GCF_041877945.1;889_19_26,83,,1
+group_1877,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_349,85,,1
+group_1868,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_354,211,,1
+group_1854,hypothetical protein,GCF_900984105.1,GCF_900984105.1;1667_2_84,86,,1
+group_1799,hypothetical protein,GCF_020826915.1,GCF_020826915.1;788_0_988,87,,1
+group_1773,hypothetical protein,GCF_035918415.1,GCF_035918415.1;827_0_1215,42,,1
+group_1772,hypothetical protein,GCF_035918415.1,GCF_035918415.1;827_0_1213,112,,1
+group_1665,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_14_42,89,,1
+group_1650,hypothetical protein,GCF_900474885.1,GCF_900474885.1;1539_0_1092,89,,1
+group_1637,hypothetical protein,GCF_044361195.1,GCF_044361195.1;938_0_881,89,,1
+group_1626,hypothetical protein,GCF_020827035.1,GCF_020827035.1;794_0_1091,89,,1
+group_1563,hypothetical protein,GCA_042876625.1,GCA_042876625.1;71_5_14,89,,1
+group_1513,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_978,90,,1
+group_1402,hypothetical protein,GCF_034436135.1,GCF_034436135.1;826_0_1338,91,,1
+group_1383,hypothetical protein,GCF_900983525.1,GCF_900983525.1;1643_0_126,229,,1
+group_1328,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_976,231,,1
+group_1133,hypothetical protein,GCF_000631925.1,GCF_000631925.1;552_0_978,237,,1
+group_982,hypothetical protein,GCF_900475525.1,GCF_900475525.1;1566_0_1146,96,,1
+group_889,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_983,111,,1
+group_871,hypothetical protein,GCF_004124075.1,GCF_004124075.1;641_0_1121,97,,1
+group_837,hypothetical protein,GCF_004193935.1,GCF_004193935.1;669_0_1140,96,,1
+group_822,hypothetical protein,GCF_900982855.1,GCF_900982855.1;1598_0_124,98,,1
+group_799,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_358,98,,1
+group_788,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_361,248,,1
+group_698,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_196,250,,1
+group_680,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1191,118,,1
+group_661,hypothetical protein,GCF_056673825.1,GCF_056673825.1;1523_0_956,100,,1
+group_660,hypothetical protein,GCF_005161605.1,GCF_005161605.1;677_0_1175,87,,1
+group_652,hypothetical protein,GCF_054581305.1,GCF_054581305.1;1324_1_55,251,,1
+group_648,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1016,105,,1
+group_647,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1015,152,,1
+group_640,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1003,257,,1
+group_522,hypothetical protein,GCF_041900815.1,GCF_041900815.1;908_17_40,257,,1
+group_496,hypothetical protein,GCF_900475085.1,GCF_900475085.1;1552_0_1473,258,,1
+group_436,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_1_129,104,,1
+group_323,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_214,265,,1
+group_296,hypothetical protein,GCF_900995695.1,GCF_900995695.1;1872_11_21,76,,1
+group_256,hypothetical protein,GCF_900983035.1,GCF_900983035.1;1613_1_127,269,,1
+group_241,hypothetical protein,GCF_020827135.1,GCF_020827135.1;799_0_191,108,,1
+group_240,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_376,108,,1
+group_235,hypothetical protein,GCF_000629625.1,GCF_000629625.1;437_4_98,50,,1
+group_96,hypothetical protein,GCF_900474765.1,GCF_900474765.1;1530_0_1011,276,,1
+group_32,hypothetical protein,GCF_033008475.1,GCF_033008475.1;821_3_352,280,,1
+group_27,hypothetical protein,GCF_001535565.1,GCF_001535565.1;580_0_1340,112,,1

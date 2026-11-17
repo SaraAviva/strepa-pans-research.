@@ -1,0 +1,72 @@
+{
+  "checked_on": "2026-11-17",
+  "archive_checks": {
+    "checks": {
+      "hashes": 82,
+      "python_syntax": 41,
+      "shell_syntax": 34,
+      "input_hashes": 2,
+      "source_pdf_hashes": 1
+    },
+    "failures": []
+  },
+  "existing_synthetic_verifier_tests_passed": 10,
+  "original_result_package_checksums_passed": 107,
+  "remote_hummingbird_source_files_verified": 39,
+  "remote_inventory_scope": "Targeted sources only; see hummingbird-source-audit.json",
+  "annotation_coverage_rerun": {
+    "completed": true,
+    "manifest_records": 2015,
+    "tsv_rows": 2871,
+    "python": "Python 3.12.14",
+    "platform": "macOS arm64",
+    "seed": 20260810,
+    "bootstrap_resamples": 3000,
+    "output_files": [
+      {
+        "filename": "analysis_summary.json",
+        "bytes": 3818,
+        "sha256": "abe703d948bc198e9fd17a32ea0662d32867bf23ccd38e5f5e76899ab1adffd7"
+      },
+      {
+        "filename": "hp_match_analysis.csv",
+        "bytes": 195713,
+        "sha256": "13d3253e62a7a2b92f1ff9850cac269bdfa5032c7588b893cafa2a62a787cad4"
+      },
+      {
+        "filename": "hp_match_visualization.pdf",
+        "bytes": 57433,
+        "sha256": "f0a81f5f4e02761ee4c9b6c7df04a972840ac44e970c181519516b429f74a3fa"
+      },
+      {
+        "filename": "hp_match_visualization.png",
+        "bytes": 786331,
+        "sha256": "548f634ce5d0a8d7f992c7d572b2c92167a9e5bf42da01b3155dca7e8da1d2f9"
+      },
+      {
+        "filename": "integrated_interpro_pairs.csv",
+        "bytes": 32624,
+        "sha256": "30898163cad2b3fb3777368249f4b58bf7e7850c91df0ba71dd5b019e672e9e9"
+      },
+      {
+        "filename": "isolate_bin_summary.csv",
+        "bytes": 1144,
+        "sha256": "9cc2188cc818193317f4c8779c8e36e189cb0e6c3ff223dd745cda3c7e1abe70"
+      },
+      {
+        "filename": "length_decile_summary.csv",
+        "bytes": 1230,
+        "sha256": "a0c07abca4309777781343e1564f3cda9dc04e47678bef907e7a1bc9e98d32d2"
+      },
+      {
+        "filename": "match_count_distribution.csv",
+        "bytes": 488,
+        "sha256": "7c67da73bae702756c8e0409656c8643801f2110338539830d07648fbab6b0fd"
+      }
+    ]
+  },
+  "pdf_reconstructed_analysis_rerun": true,
+  "original_portable_comparison": "analysis-version-comparison.json",
+  "full_research_pipeline_rerun": false,
+  "source_secret_pattern_scan": "Known private login, document ID and common credential patterns reviewed; no remaining matches found. This is not a guarantee of absence."
+}

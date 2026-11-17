@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the exact commit used."
+title: "StrepA computational research code"
+type: software
+authors:
+  - family-names: Teitelbaum
+    given-names: Sara
+  - family-names: Ho
+    given-names: Evan
+repository-code: "https://github.com/SaraAviva/strepa-pans-research."
+url: "https://github.com/SaraAviva/strepa-pans-research."
+date-released: 2026-11-17
+license: MIT
+abstract: >-
+  Computational source archive for Streptococcus pyogenes and PANS-associated
+  antibody research, including annotation coverage, Hummingbird execution
+  scripts, verification, and provenance. Known source gaps are documented.

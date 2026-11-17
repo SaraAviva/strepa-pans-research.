@@ -1,0 +1,5 @@
+#!/bin/bash
+# Existing user-installed FUSE support; no software installation or security changes.
+export LD_LIBRARY_PATH="/home/RESEARCH_USER/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+export PATH="/home/RESEARCH_USER/bin:$PATH"
+exec /hb/software/utils/singularity-ce/gnu13-4.1.4/bin/singularity "$@"

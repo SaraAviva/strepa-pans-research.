@@ -1,0 +1,358 @@
+{
+  "audit_date": "2026-11-17",
+  "source_namespace": "StrepA_project_revamped",
+  "retrieval": "Read-only; SHA-256 checked after transfer",
+  "source_files_verified": 39,
+  "scope": "Upload scripts, both October run script directories, recovery scripts, saved source/configuration provenance, and the runtime wrapper",
+  "excluded": [
+    "Third-party software installations",
+    "Nextflow work/cache directories",
+    "Container images",
+    "Participant data"
+  ],
+  "limitation": "The separately documented SerImmune_project/scripts directory returned permission denied and is not covered.",
+  "files": [
+    {
+      "path": "sara_local_uploads/Evan_upload_2026-09-15_6SUDhy/02_scripts/graph_2015_hp_interproscan.py",
+      "bytes": 20351,
+      "sha256": "9dfee882da2589595e91250222559dc08fa198dc7042eb0ceb1582164ad4a0e0",
+      "matching_archive_paths": [
+        "analysis/annotation_coverage/graph_2015_hp_interproscan.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/status.sh",
+      "bytes": 786,
+      "sha256": "b894ac17193f5763c7cf0e8c4820f051317316593de9b8d947c1771d884ed25f",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/status.sh",
+        "historical/hummingbird/work/package/scripts/status.sh"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/run.config",
+      "bytes": 3037,
+      "sha256": "b30506a9072b318e85b2597e60fe96f6fc860547540e3c50a005b75d492f79f5",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/run.config",
+        "historical/hummingbird/work/package/scripts/run.config",
+        "historical/hummingbird/work/recovery/original/scripts/run.config"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/status_retry_20261004.sh",
+      "bytes": 816,
+      "sha256": "a6a684babb84f7567230db2cdb10c76f74cf3d4f22dcbb627ee6494ab5d12feb",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/status_retry_20261004.sh",
+        "historical/hummingbird/work/recovery/retry_scripts/status_retry_20261004.sh"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/analysis_retry_20261004.sbatch",
+      "bytes": 4376,
+      "sha256": "eb81a50ead9d0a46c33223ec68ad9b02b9b0237ea8f6029f5d6dfebba45e62ab",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/analysis_retry_20261004.sbatch",
+        "historical/hummingbird/work/recovery/retry_scripts/analysis_retry_20261004.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/environment.sh",
+      "bytes": 1023,
+      "sha256": "cf8598cd6202bc745efb293de8fa1c6f2c4b586f116b303ad42f7426cb0d370f",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/environment.sh",
+        "historical/hummingbird/work/package/scripts/environment.sh",
+        "historical/hummingbird/work/recovery/original/scripts/environment.sh"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess_retry_20261004.sbatch",
+      "bytes": 946,
+      "sha256": "1aea22ad87fce0cfbc59e71dbdd514ca68375e40cd2847081e3aaeac28255f3c",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess_retry_20261004.sbatch",
+        "historical/hummingbird/work/recovery/retry_scripts/postprocess_retry_20261004.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess_retry_20261004.py",
+      "bytes": 14738,
+      "sha256": "c4d3b9fe2b8fea298d211d9488c9ac4a86bf308040fc83c0b25082bf82f56e8c",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess_retry_20261004.py",
+        "historical/hummingbird/work/recovery/retry_scripts/postprocess_retry_20261004.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/analysis.sbatch",
+      "bytes": 3245,
+      "sha256": "4471bab09f77644c06fe75eaeb501f475ba6374f4dbcfa8dcd7f9e72833e5b75",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/analysis.sbatch",
+        "historical/hummingbird/work/package/scripts/analysis.sbatch",
+        "historical/hummingbird/work/recovery/original/scripts/analysis.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess_final_20261004.sbatch",
+      "bytes": 1199,
+      "sha256": "7f6631d7e0bd06c48b10e42c9229bbb5cc203b58b6f85dcda086ace169545d50",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess_final_20261004.sbatch",
+        "historical/hummingbird/work/recovery/postprocess_final_20261004.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess.sbatch",
+      "bytes": 858,
+      "sha256": "7e9daaa2e78d96ac9d7ab77436cd9914877026a819046890dc930053ab462182",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess.sbatch",
+        "historical/hummingbird/work/package/scripts/postprocess.sbatch",
+        "historical/hummingbird/work/recovery/original/scripts/postprocess.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/run_retry_20261004.config",
+      "bytes": 3625,
+      "sha256": "c830392a3f976539d880cf7bccd0071e3723fd543377215b76922bd90b762037",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/run_retry_20261004.config",
+        "historical/hummingbird/work/recovery/retry_scripts/run_retry_20261004.config"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/preflight.py",
+      "bytes": 2221,
+      "sha256": "83b5eef16191bbad4277292b40772796a59f89868cdaaab849420123f68c4143",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/preflight.py",
+        "historical/hummingbird/work/package/scripts/preflight.py",
+        "historical/hummingbird/work/preflight.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/submit.py",
+      "bytes": 1268,
+      "sha256": "532052b6557cedbdfd2f2fbbd342095ba29744e310a11f6d820aa19868548902",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/submit.py",
+        "historical/hummingbird/work/package/scripts/submit.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/status_final.sh",
+      "bytes": 283,
+      "sha256": "aea81188d603be74aa14b53439fdd1b9073936344be02e4cc58d3185fb19cdb4",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/status_final.sh"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess.py",
+      "bytes": 14678,
+      "sha256": "03debbab125f68d726b550f795a38945c8c2d2ef21ddedc72c0febb83c9c59c6",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess.py",
+        "historical/hummingbird/work/postprocess.py",
+        "historical/hummingbird/work/recovery/original/scripts/postprocess.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/scripts/postprocess_final_20261004.py",
+      "bytes": 16682,
+      "sha256": "184fd4362347358122288b942e67bdd57f701c57126e836c95008ed120983c9a",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/scripts/postprocess_final_20261004.py",
+        "historical/hummingbird/work/recovery/postprocess_final_20261004.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/status_supplement.sh",
+      "bytes": 664,
+      "sha256": "bc82975d292567f021ea6f6d12cbfd3d69e4fab5833d1addb3b34c6f9309175f",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_topology_20261006/scripts/status_supplement.sh",
+        "historical/hummingbird/work/topology_supplement/status_supplement.sh"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/verify_supplement.sbatch",
+      "bytes": 1109,
+      "sha256": "e1ed9598b2d291fc1290b2c220366c8aa091154ada78b8ea4ebbd2d5ecd3a7bc",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_topology_20261006/scripts/verify_supplement.sbatch",
+        "historical/hummingbird/work/topology_supplement/verify_supplement.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/phobius_retry1.sbatch",
+      "bytes": 1693,
+      "sha256": "aabba63e9277fb3367c10be12ae343de4b3c85f6d959b80d6341ae9c5faaf495",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/phobius_retry1.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/tmbed.sbatch",
+      "bytes": 1677,
+      "sha256": "dcfad1742e0f7fec2fa75d14bc42b9a50666f088663de5c06c1136b347dbadcc",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/tmbed.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/verify_supplement.py",
+      "bytes": 9182,
+      "sha256": "b118fe571cf493b575b5833325ddd45863be1dbb80f836edbc8b10a7ebedc23a",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_topology_20261006/scripts/verify_supplement.py",
+        "historical/hummingbird/work/topology_supplement/verify_supplement.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/run_components_v2.py",
+      "bytes": 9428,
+      "sha256": "5e1f9d37662aae877571aa426192405f00a0b2613949ddf6c324a9ada8a8e9b4",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/run_components_v2.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/run_components_v3.py",
+      "bytes": 9546,
+      "sha256": "e63a4273bc326100cc7df76ad96747b4b446ead8251220f272e0f56edb4e9eda",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/run_components.py",
+        "historical/hummingbird/work/topology_supplement/run_components_v3.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/ebi_supplement.py",
+      "bytes": 3723,
+      "sha256": "97edf9685a6a31afb4bf039401ca53d0ae18b51b0acc6611f3e8122b0596e92d",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/ebi_supplement.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/run_components.py",
+      "bytes": 9311,
+      "sha256": "c6476c756b3038ed989c17c339de553f213a6e4b6d07241b092f2188bd45b937",
+      "matching_archive_paths": [
+        "historical/archive_exports/topology/scripts/run_components.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/phobius_retry2.sbatch",
+      "bytes": 1705,
+      "sha256": "01016b284c099c27e8c2bf29da72d3a5720c48239ad7a7f195fd1afa7b14ef58",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/phobius_retry2.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/run_components_v4.py",
+      "bytes": 9916,
+      "sha256": "638957f746a7063a88936d7903b9f1adec68eef390b20ed096a05a0d16bad9d4",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_topology_20261006/scripts/run_components_v4.py",
+        "historical/hummingbird/work/topology_supplement/run_components_v4.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/tmbed_retry1.sbatch",
+      "bytes": 1687,
+      "sha256": "291c4488d7afaf8c146c3f175b9b743ce6156f493139cc2bd9db26553c4f694b",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_topology_20261006/scripts/tmbed_retry1.sbatch",
+        "historical/hummingbird/work/topology_supplement/tmbed_retry1.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261006T234134Z_topology_c655cc0c/scripts/phobius.sbatch",
+      "bytes": 1684,
+      "sha256": "eddcbe69b944d5c65c2bcb719d82e4dad818c3defd620ce2c8e98222c58a6f24",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/topology_supplement/phobius.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/recovery_20261004T163308Z/container_smoke.sbatch",
+      "bytes": 1499,
+      "sha256": "cb7b36d95d389fd059e1c5f150620fc6d0698ec5285a9dbec29a1ee6f941ae69",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/recovery/container_smoke.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/recovery_20261004T163308Z/prepare_sandboxes.sbatch",
+      "bytes": 953,
+      "sha256": "26e5a92ba8cd80a53102064fd431074fed9b30c9cc62f733c8bbc570624df1fd",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/recovery/prepare_sandboxes.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/recovery_20261004T163308Z/prepare_sandboxes.py",
+      "bytes": 3078,
+      "sha256": "c7a6b082ed16c8031a1a664583ba617352221e63c1e2a26b33e55472fb1ee508",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/recovery/prepare_sandboxes.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/recovery_20261004T163308Z/extraction_smoke.sbatch",
+      "bytes": 1824,
+      "sha256": "9e4d1865ec66aaab9abf7628aa76797defcb72179bfab8ec722ef835f9e74012",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/recovery/extraction_smoke.sbatch"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/provenance/effective.config",
+      "bytes": 11308,
+      "sha256": "80eb93b34899f0908ad547c372ee3f7156a44a5c936d92918801710d14567ad8",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/provenance/effective.config"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/provenance/setup_run.py",
+      "bytes": 6744,
+      "sha256": "d9361c4c5a6ee8265f213a35a9d983a74ffe072c04363492f2e988e6a834378a",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/provenance/setup_run.py",
+        "historical/hummingbird/work/package/provenance/setup_run.py",
+        "historical/hummingbird/work/setup_run.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/provenance/retry_20261004_effective.config",
+      "bytes": 11896,
+      "sha256": "72c4850cc9390520b9c805e89695b87ca60360538f4cc586131de0cfc6f24ead",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/provenance/retry_20261004_effective.config"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/provenance/postprocess.initial.py",
+      "bytes": 13503,
+      "sha256": "10aa7631fd6bfb0c615e11b45a90337c9c0a5970738545de3a4f0d6983ce69d5",
+      "matching_archive_paths": [
+        "historical/hummingbird/outputs/Hummingbird_results_20261004/provenance/postprocess.initial.py",
+        "historical/hummingbird/work/package/scripts/postprocess.py"
+      ]
+    },
+    {
+      "path": "interproscan_all_significant_20261003T043208Z_b2a74f5f/runtime/bin/singularity",
+      "bytes": 290,
+      "sha256": "7cebe3c651682f304b6a35461505875b85f4d837b44080ca2943315340a9f83e",
+      "matching_archive_paths": [
+        "historical/hummingbird/work/package/runtime/bin/singularity"
+      ]
+    }
+  ]
+}
